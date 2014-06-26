@@ -12,12 +12,12 @@ Runeword11	Breath of the Dying
 7b8	Winged Axe
 zlb	Demonhide Sash
 Stone Crusher	Stone Crusher
-The Spirit Shroud	The Spirit Shroud
 cm3	Grand Charm
+The Spirit Shroud	The Spirit Shroud
 Rings	Rings
 misl	Missile
-Godstrike Arch	Goldstrike Arch
 Sigon's Sabot	Sigon's Sabot
+Godstrike Arch	Goldstrike Arch
 r19	Fal Rune
 Bloodmoon	Bloodmoon
 gcy	Chipped Topaz
@@ -29,8 +29,8 @@ upk	Blade Barrier
 r13	Shael Rune
 vps	Stamina Potion
 r32	Cham Rune
-Tyrael's Might	Tyrael's Might
 Milabrega's Rod	Milabrega's Rod
+Tyrael's Might	Tyrael's Might
 buc	Buckler
 mboq	Magic Bow Quiv
 drf	Dream Spirit
@@ -44,8 +44,8 @@ War Bonnet	Biggin's Bonnet
 wand	Wand
 Demonlimb	Demon Limb
 9la	Military Axe
-The Grim Reaper	The Grim Reaper
 Cleglaw's Brace	Cleglaw's Brace
+The Grim Reaper	The Grim Reaper
 Griswolds's Redemption	Griswold's Redemption
 9m9	War Club
 msk	Mask
@@ -53,18 +53,18 @@ The Ward	The Ward
 lst	Long Staff
 Messerschmidt's Reaver	Messerschmidt's Reaver
 Runeword72	Leaf
-7fc	Hydra Edge
 Runeword79	Madness
-Wall of the Eyeless	Wall of the Eyeless
+7fc	Hydra Edge
 xth	Embossed Plate
-Steelpillar	Steel Pillar
+Wall of the Eyeless	Wall of the Eyeless
 Aldur's Watchtower	Aldur's Watchtower
+Steelpillar	Steel Pillar
 lea	Leather Armor
 xhg	War Gauntlets
 7bl	Legend Spike
+Heaven's Brethren	Heaven's Brethren
 gpv	Perfect Amethyst
 clm	Claymore
-Heaven's Brethren	Heaven's Brethren
 ba5	Avenger Guard
 Cathan's Mesh	Cathan's Mesh
 am7	Ceremonial Bow
@@ -74,8 +74,8 @@ Tearhaunch	Tearhaunch
 gem3	Flawless Gem
 Djinnslayer	Djinn Slayer
 Hellslayer	Hellslayer
-Iratha's Coil	Iratha's Coil
 Tancred's Battlegear	Tancred's Battlegear
+Iratha's Coil	Iratha's Coil
 Windhammer	Windhammer
 bowq	Bow Quiver
 9s8	Battle Scythe
@@ -83,11 +83,11 @@ obb	Heavenly Stone
 lax	Large Axe
 Iratha's Finery	Iratha's Finery
 9s9	Simbilan
+Runeword53	Holy Tears
 M'avina's Embrace	M'avina's Embrace
 7sp	Tyrant Club
-Runeword53	Holy Tears
-Sigon's Guard	Sigon's Guard
 Runeword160	Wealth
+Sigon's Guard	Sigon's Guard
 gfg	Flawed Emerald
 Trang-Oul's Scales	Trang-Oul's Scales
 Blade of Ali Baba	Blade of Ali Baba
@@ -96,41 +96,41 @@ Iratha's Cuff	Iratha's Cuff
 9pi	Great Pilum
 jewl	Jewel
 Runeword88	Nadir
-Darkforge Spawn	Darkforce Spawn
 xng	Linked Mail
+Darkforge Spawn	Darkforce Spawn
 brz	Brain
 ulg	Bramble Mitts
 Immortal King's Stone Crusher	Immortal King's Stone Crusher
 Hsarus' Iron Heel	Hsarus' Iron Heel
 Gravepalm	Gravepalm
 9wd	Ancient Sword
-Stoutnail	Stoutnail
 hrt	Heart
+Stoutnail	Stoutnail
 Stealskull	Stealskull
 Spiritforge	Spirit Forge
 Carrion Wind	Carrion Wind
 ob4	Clasped Orb
 Zakarum's Salvation	Zakarum's Salvation
-lxb	Light Crossbow
 vou	Voulge
+lxb	Light Crossbow
 Bverrit Keep	Bverrit Keep
 skc	Chipped Skull
-Heaven's Taebaek	Taebaek's Glory
 ci0	Circlet
-gsc	Grand Scepter
+Heaven's Taebaek	Taebaek's Glory
 Runeword165	Wisdom
+gsc	Grand Scepter
 mace	Mace
 Magewrath	Magewrath
-Hellcast	Hellcast
 Natalya's Odium	Natalya's Odium
-9dg	Poignard
+Hellcast	Hellcast
 Runeword143	Thirst
+9dg	Poignard
 Cloudcrack	Cloudcrack
 7kr	Fanged Knife
 whm	War Hammer
 ob2	Sacred Globe
-Goldskin	Goldskin
 Civerb's Ward	Civerb's Ward
+Goldskin	Goldskin
 seco	Second Hand
 Herald of Zakarum	Herald of Zakarum
 ear	Ear
@@ -153,21 +153,21 @@ ghm	Great Helm
 7mt	Devil Star
 Runeword8	Bone
 ring	Ring
-Medusa's Gaze	Medusa's Gaze
 Runeword26	Doom
+Medusa's Gaze	Medusa's Gaze
 Todesfaelle Flamme	Todesfaelle Flamme
 The Gnasher	The Gnasher
 Angelic Wings	Angelic Wings
 Runeword127	Siren's Song
-M'avina's Icy Clutch	M'avina's Icy Clutch
 xmb	Mesh Boots
-9ws	Divine Scepter
+M'avina's Icy Clutch	M'avina's Icy Clutch
 9yw	Petrified Wand
+9ws	Divine Scepter
 92h	Espandon
 Runeword155	Victory
 r05	Eth Rune
-Griffon's Eye	Griffon's Eye
 Runeword31	Edge
+Griffon's Eye	Griffon's Eye
 fla	Flail
 Thunderstroke	Thunderstroke
 Arctic Horn	Arctic Horn
@@ -184,32 +184,32 @@ The Stone of Jordan	The Stone of Jordan
 r10	Thul Rune
 ssd	Short Sword
 urg	Hyperion
-M'avina's Tenet	M'avina's Tenet
 Runeword84	Mist
-scy	Scythe
+M'avina's Tenet	M'avina's Tenet
 The Disciple	The Disciple
+scy	Scythe
+Runeword13	Call to Arms
 Dangoon's Teaching	Dangoon's Teaching
 9vo	Bill
-Runeword13	Call to Arms
-7ts	Winged Harpoon
 bar	Bardiche
+7ts	Winged Harpoon
 r31	Jah Rune
 mac	Mace
 lrg	Large Shield
 Stormchaser	Stormchaser
-The Atlantian	The Atlantean
 Runeword70	Law
-sbb	Short Battle Bow
-Runeword81	Malice
+The Atlantian	The Atlantean
 Runeword169	Youth
+Runeword81	Malice
+sbb	Short Battle Bow
 sorc	Sorceress Item
 Arcanna's Head	Arcanna's Head
 8sb	Edge Bow
-Berserker's Hatchet	Berserker's Hatchet
 Runeword28	Dread
+Berserker's Hatchet	Berserker's Hatchet
 boot	Boots
-Amulet of the Viper	Amulet of the Viper
 dr9	Sacred Feathers
+Amulet of the Viper	Amulet of the Viper
 pil	Pilum
 mxbq	Magic Xbow Quiv
 urn	Corona
@@ -217,13 +217,13 @@ Frostwind	Frostwind
 Crescent Moon	Crescent Moon
 Hwanin's Justice	Hwanin's Justice
 pk3	Key of Destruction
-Goldwrap	Goldwrap
 glw	Flawless Diamond
+Goldwrap	Goldwrap
 ukp	Hydraskull
 7sr	Hyperion Spear
 7cm	Highland Blade
-Rockfleece	Rockfleece
 xsk	Death Mask
+Rockfleece	Rockfleece
 Runeword98	Peace
 ajav	Amazon Javelin
 Sandstorm Trek	Sandstorm Trek
@@ -232,34 +232,34 @@ Bloodrise	Bloodrise
 Atma's Wail	Atma's Wail
 Naj's Circlet	Naj's Circlet
 Shadowdancer	Shadow Dancer
-qey	Khalim's Eye
 Runeword104	Piety
+qey	Khalim's Eye
 9qs	Holy Water Sprinkler
 lbt	Boots
 uui	Dusk Shroud
 taxe	Throwing Axe
 ba3	Horned Helm
 gis	Giant Sword
+Runeword114	Purity
 Suicide Branch	Suicide Branch
 am5	Maiden Javelin
-Runeword114	Purity
 mp3	Mana Potion
 ces	Cestus
-Razoredge	Razor's Edge
 r29	Sur Rune
+Razoredge	Razor's Edge
 am4	Maiden Pike
 bsh	Bone Shield
 Hsarus' Iron Fist	Hsarus' Iron Fist
 brs	Breast Plate
 wms	Thawing Potion
-Griswolds Edge	Griswold's Edge
 Runeword48	Hand of Justice
+Griswolds Edge	Griswold's Edge
 tkni	Throwing Knife
 xea	Serpentskin Armor
 Windforce	Windforce
-Odium	Odium
 uar	Sacred Armor
 r17	Lum Rune
+Odium	Odium
 nef	Bloodlord Skull
 hxb	Heavy Crossbow
 The Eye of Etlich	The Eye of Etlich
@@ -308,20 +308,20 @@ Doomspittle	Doomslinger
 Runeword125	Shadow of Doubt
 hpot	Healing Potion
 herb	Herb
+Runeword6	Black
 Saracen's Chance	Saracen's Chance
 Bloodfist	Bloodfist
 obe	Vortex Orb
-Runeword6	Black
 Nightwing's Veil	Nightwing's Veil
 spot	Stamina Potion
 Ironstone	Ironstone
 ass	Right Click to learn skill of your choice}Book of Skill
 7sb	Elegant Blade
 6hx	Colossus Crossbow
-Runeword65	King's Grace
 Runeword161	Whisper
-Arctic Binding	Arctic Binding
+Runeword65	King's Grace
 Runeword138	Storm
+Arctic Binding	Arctic Binding
 hp5	Super Healing Potion
 Runeword141	Temptation
 wax	War Axe
@@ -333,20 +333,20 @@ r21	Pul Rune
 Tiamat's Rebuke	Tiamat's Rebuke
 bhm	Bone Helm
 gcw	Chipped Diamond
-Bing Sz Wang	Bing Sz Wang
 uhc	Colossus Girdle
-Bloodtree Stump	Bloodtree Stump
+Bing Sz Wang	Bing Sz Wang
 ne3	Unraveller Head
+Bloodtree Stump	Bloodtree Stump
 6ws	Archon Staff
 Bonesob	Bonesnap
-Maelstromwrath	Maelstrom
 Runeword116	Radiance
+Maelstromwrath	Maelstrom
 hfh	Hell Forge Hammer
 Crown of Thieves	Crown of Thieves
 cbw	Composite Bow
+uvc	Vampirefang Belt
 Warriv's Warder	Warriv's Warder
 Darkglow	Darkglow
-uvc	Vampirefang Belt
 Haemosu's Adament	Haemosu's Adamant
 Highlord's Wrath	Highlord's Wrath
 9tk	Battle Dart
@@ -360,17 +360,17 @@ Woestave	Woestave
 pax	Poleaxe
 7gi	Glorious Axe
 yps	Antidote Potion
-Gargoyle's Bite	Gargoyle's Bite
 ucl	Loricated Mail
-Headhunter's Glory	Head Hunter's Glory
+Gargoyle's Bite	Gargoyle's Bite
 xar	Ornate Plate
+Headhunter's Glory	Head Hunter's Glory
 Bul-Kathos' Sacred Charge	Bul-Kathos' Sacred Charge
 book	Book
 hdm	Horadric Malus
 r03	Tir Rune
 luv	The Black Tower Key
-Marrowwalk	Marrowwalk
 elx	Elixir
+Marrowwalk	Marrowwalk
 pk1	Key of Terror
 7gs	Balrog Blade
 spc	Spiked Club
@@ -390,8 +390,8 @@ gpr	Perfect Ruby
 gix	Giant Axe
 utg	Crusader Gauntlets
 Runeword7	Blood
-Sigon's Wrap	Sigon's Wrap
 Runeword76	Love
+Sigon's Wrap	Sigon's Wrap
 Runeword23	Desire
 The Oculus	The Oculus
 Umes Lament	Ume's Lament
@@ -399,39 +399,39 @@ am3	Maiden Spear
 r28	Lo Rune
 Pus Spiter	Pus Spitter
 amf	Matriarchal Javelin
-Stormeye	Stormeye
 8lb	Cedar Bow
+Stormeye	Stormeye
 h2h2	Hand to Hand 2
 Immortal King	Immortal King
 7cs	Battle Cestus
 weap	Weapon
 7ma	Reinforced Mace
 Class Specific	Class-specific
-Bloodthief	Bloodthief
 7p7	War Pike
-Knell Striker	Knell Striker
-Bul-Kathos' Tribal Guardian	Bul-Kathos' Tribal Guardian
+Bloodthief	Bloodthief
 Runeword123	Serendipity
+Bul-Kathos' Tribal Guardian	Bul-Kathos' Tribal Guardian
 7pi	Stygian Pilum
+Knell Striker	Knell Striker
 qll	Quill
 ob9	Sparkling Ball
 Runeword100	Penitence
 Isenhart's Horns	Isenhart's Horns
 r23	Mal Rune
 rxb	Repeating Crossbow
-The Mahim-Oak Curio	The Mahim-Oak Curio
 Natalya's Soul	Natalya's Soul
+The Mahim-Oak Curio	The Mahim-Oak Curio
 Runeword10	Brand
-Fathom	Death's Fathom
 Cow King's Horns	Cow King's Horns
+Fathom	Death's Fathom
 7h7	Great Poleaxe
 Runeword29	Dream
-Crow Caw	Crow Caw
-Runeword44	Fury
 Runeword83	Memory
-Homunculus	Homunculus
-ne6	Mummified Trophy
+Runeword44	Fury
+Crow Caw	Crow Caw
 Naj's Ancient Set	Naj's Ancient Vestige
+ne6	Mummified Trophy
+Homunculus	Homunculus
 Heart Carver	Heart Carver
 7tk	Flying Knife
 Runeword22	Delirium
@@ -463,13 +463,13 @@ Runeword34	Enlightenment
 Natalya's Mark	Natalya's Mark
 Buriza-Do Kyanon	Buriza-Do Kyanon
 Runeword86	Mystery
-Lavagout	Lava Gout
 dr6	Alpha Helm
+Lavagout	Lava Gout
 Victors Silk	Silks of the Victor
 ibk	Tome of Identify
 Infernostride	Infernostride
-Hellclap	Hellclap
 9tr	Fuscina
+Hellclap	Hellclap
 Runeword113	Punishment
 tri	Trident
 7mp	War Spike
@@ -488,20 +488,20 @@ pik	Pike
 Coldsteel Eye	Coldsteel Eye
 Guardian Angel	Guardian Angel
 Undead Crown	Undead Crown
-Mara's Kaleidoscope	Mara's Kaleidoscope
 Infernal Cranium	Infernal Cranium
+Mara's Kaleidoscope	Mara's Kaleidoscope
 xla	Demonhide Armor
 Lazarus Spire	Spire of Lazarus
 Spiritual Custodian	Dark Adherent
 6l7	Crusader Bow
 sml	Small Shield
 9sp	Barbed Club
+Runeword163	Wind
 pa8	Protector Shield
 tr2	Right Click to Cast}Scroll of Resistance
-Runeword163	Wind
 sst	Short Staff
-Boneslayer Blade	Boneslayer Blade
 gpl	Strangling Gas Potion
+Boneslayer Blade	Boneslayer Blade
 gemz	Skull
 Runeword67	Knight's Vigil
 comb	Combo Weapon
@@ -512,18 +512,18 @@ Warlord's Trust	Warlord's Trust
 Razorswitch	Razorswitch
 9pa	Partizan
 bow	Bow
+Tal Rasha's Fire-Spun Cloth	Tal Rasha's Fine-Spun Cloth
 Ghostflame	Ghostflame
 Dwarf Star	Dwarf Star
-Tal Rasha's Fire-Spun Cloth	Tal Rasha's Fine-Spun Cloth
-Stormspire	Stormspire
 lgl	Leather Gloves
+Stormspire	Stormspire
 knif	Knife
 Civerb's Cudgel	Civerb's Cudgel
 toa	Right-click to reset Stat/Skill Points}Token of Absolution
 9fb	Zweihander
 Blackhorn's Face	Blackhorn's Face
-Pierre Tombale Couant	Pierre Tombale Couant
 uea	Wyrmhide
+Pierre Tombale Couant	Pierre Tombale Couant
 Goreshovel	Goreshovel
 gemt	Topaz
 isc	Scroll of Identify
@@ -532,52 +532,52 @@ Skystrike	Skystrike
 sock	Socket Filler
 Runeword59	Ice
 r09	Ort Rune
-Headstriker	Headstriker
 Griswold's Heart	Griswold's Heart
+Headstriker	Headstriker
 r16	Io Rune
 mcha	Medium Charm
 Riphook	Riphook
 Spiritkeeper	Spirit Keeper
 zmb	Mesh Belt
 hp3	Healing Potion
-Iratha's Collar	Iratha's Collar
-vgl	Heavy Gloves
 Runeword170	Zephyr
+vgl	Heavy Gloves
+Iratha's Collar	Iratha's Collar
 7pa	Cryptic Axe
-key	Key
 Runeword118	Reason
-Soulflay	Soulflay
+key	Key
 gcb	Chipped Sapphire
+Soulflay	Soulflay
 r04	Nef Rune
 bey	Baal's Eye
 aspe	Amazon Spear
 Sigurd's Staunch	Siggard's Stealth
-Gorefoot	Gorefoot
 8lw	Gothic Bow
-Heaven's Light	Heaven's Light
+Gorefoot	Gorefoot
 rng	Ring Mail
+Heaven's Light	Heaven's Light
 rvl	Full Rejuvenation Potion
 Trang-Oul's Wing	Trang-Oul's Wing
 Milabrega's Diadem	Milabrega's Diadem
 Boneshade	Boneshade
 clb	Club
 ne8	Sexton Trophy
-Rite of Passage	Rite of Passage
 xpl	Russet Armor
+Rite of Passage	Rite of Passage
 Runeword30	Duress
 Zakarum's Hand	Zakarum's Hand
 Veil of Steel	Veil of Steel
 Naj's Puzzler	Naj's Puzzler
 Halaberd's Reign	Halaberd's Reign
-Corpsemourn	Corpsemourn
 Runeword94	Obsession
+Corpsemourn	Corpsemourn
+Cathan's Sigil	Cathan's Sigil
 Spirit Ward	Spirit Ward
 Spineripper	Spineripper
-Cathan's Sigil	Cathan's Sigil
-Rockstopper	Rockstopper
-Magefist	Magefist
 gth	Gothic Plate
 9b9	Gothic Sword
+Magefist	Magefist
+Rockstopper	Rockstopper
 Hwanin's Seal	Hwanin's Blessing
 uhl	Giant Conch
 utc	Troll Belt
@@ -586,14 +586,14 @@ Eschuta's temper	Eschuta's Temper
 Steelgoad	Steelgoad
 usk	Demonhead
 btx	Battle Axe
-Aldur's Deception	Aldur's Deception
 ba1	Jawbone Cap
+Aldur's Deception	Aldur's Deception
 swb	Short War Bow
-Staff of Kings	Staff of Kings
 Wizendraw	Wizendraw
+Staff of Kings	Staff of Kings
 ops	Oil Potion
-Blastbark	Blastbark
 Runeword20	Death
+Blastbark	Blastbark
 Lightsabre	Lightsabre
 9sc	Rune Scepter
 Runeword55	Honor
@@ -613,26 +613,26 @@ Sazabi's Cobalt Redeemer	Sazabi's Cobalt Redeemer
 r15	Hel Rune
 9ba	Bearded Axe
 uhg	Ogre Gauntlets
-The Minataur	The Minotaur
 6sw	Ward Bow
+The Minataur	The Minotaur
+Runeword3	Authority
 gfr	Flawed Ruby
 gma	Great Maul
-Runeword3	Authority
 7ja	Hyperion Javelin
 Runeword60	Infinity
 Bladebone	Bladebone
-Hellmouth	Hellmouth
 Runeword74	Lionheart
+Hellmouth	Hellmouth
 Black Hades	Black Hades
 qf2	Khalim's Will
 7gl	Ghost Glaive
 2hs	Two-Handed Sword
 Merman's Speed	Merman's Sprocket
-Earthshaker	Earthshaker
-Naj's Light Plate	Naj's Light Plate
 r26	Vex Rune
-7qs	Seraph Rod
+Naj's Light Plate	Naj's Light Plate
 7vo	Colossus Voulge
+7qs	Seraph Rod
+Earthshaker	Earthshaker
 Runeword89	Nature's Kingdom
 Steelshade	Steel Shade
 plt	Plate Mail
@@ -641,8 +641,8 @@ drc	Sun Spirit
 ulc	Spiderweb Sash
 Tancred's Weird	Tancred's Weird
 9gw	Grave Wand
-r33	Zod Rune
 Runeword121	Rift
+r33	Zod Rune
 Runeword57	Humility
 Silkweave	Silkweave
 dr4	Falcon Mask
@@ -662,25 +662,25 @@ Ondal's Almighty	Ondal's Almighty
 mp4	Greater Mana Potion
 Rattlecage	Rattlecage
 dr2	Hawk Helm
-std	Standard of Heroes
 Runeword106	Plague
+std	Standard of Heroes
 hst	Horadric Staff
-Hellfire Torch	Hellfire Torch
 pa3	Heraldic Shield
+Hellfire Torch	Hellfire Torch
 Piercerib	Rogue's Bow
 Frostburn	Frostburn
 Runeword5	Beauty
 Immortal King's Pillar	Immortal King's Pillar
 drd	Earth Spirit
 M'avina's Caster	M'avina's Caster
-Toothrow	Toothrow
 xhm	Winged Helm
+Toothrow	Toothrow
 xml	Round Shield
 assn	Assassin Item
-Kelpie Snare	Kelpie Snare
 8s8	Short Siege Bow
-Bladebuckle	Bladebuckle
+Kelpie Snare	Kelpie Snare
 Runeword152	Valor
+Bladebuckle	Bladebuckle
 Arctic Furs	Arctic Furs
 McAuley's Riprap	Sander's Riprap
 Thudergod's Vigor	Thundergod's Vigor
@@ -692,19 +692,19 @@ Hsarus' Defense	Hsarus' Defense
 am1	Stag Bow
 Rainbow Facet	Rainbow Facet
 7st	Ghost Spear
-Stormrider	Stormrider
-Isenhart's Case	Isenhart's Case
 r07	Tal Rune
+Isenhart's Case	Isenhart's Case
 7s8	Thresher
+Stormrider	Stormrider
 Runeword153	Vengeance
 ci2	Tiara
-Tal Rasha's Howling Wind	Tal Rasha's Guardianship
 Runeword159	Water
+Tal Rasha's Howling Wind	Tal Rasha's Guardianship
 The Face of Horror	The Face of Horror
 Arioc's Needle	Arioc's Needle
 Hone Sundan	Hone Sundan
-scl	Scale Mail
 Runeword131	Splendor
+scl	Scale Mail
 armo	Any Armor
 xlm	Casque
 ci1	Coronet
@@ -721,49 +721,49 @@ hbl	Plated Belt
 Runeword32	Elation
 9ls	Rune Sword
 xtu	Trellised Armor
-mpi	Military Pick
 wnd	Wand
-The Meat Scraper	The Meat Scraper
-7ax	Small Crescent
+mpi	Military Pick
 xh9	Grim Helm
+7ax	Small Crescent
+The Meat Scraper	The Meat Scraper
 Verdugo's Hearty Cord	Verdungo's Hearty Cord
 xvg	Sharkskin Gloves
-Hexfire	Hexfire
 Runeword144	Thought
+Hexfire	Hexfire
 7wh	Legendary Mallet
 Runeword103	Phoenix
 ne9	Cantor Trophy
-Warpspear	Warpspear
 hal	Halberd
-Lacerator	Lacerator
-The Gladiator's Bane	The Gladiator's Bane
-dir	Dirk
+Warpspear	Warpspear
 uh9	Bone Visage
+dir	Dirk
+The Gladiator's Bane	The Gladiator's Bane
+Lacerator	Lacerator
 Wartraveler	War Traveler
 hbw	Hunter's Bow
-String of Ears	String of Ears
 ulb	Wyrmhide Boots
-Demon Machine	Demon Machine
+String of Ears	String of Ears
 bkf	Balanced Knife
+Demon Machine	Demon Machine
 Immortal King's Soul Cage 	Immortal King's Soul Cage
 cm2	Large Charm
 Runeword126	Silence
 ob6	Glowing Orb
 Runeword156	Voice
 Cleglaw's Claw	Cleglaw's Claw
-Howltusk	Howltusk
 Runeword166	Woe
-Steelrend	Steelrend
+Howltusk	Howltusk
 Demon's Arch	Demon's Arch
+Steelrend	Steelrend
 Trang-Oul's Claws	Trang-Oul's Claws
 Arcanna's Flesh	Arcanna's Flesh
 Visceratuant	Visceratuant
 flg	Flag
 amb	Matriarchal Bow
-ung	Diamond Mail
 uts	Ward
-Viperfork	Viperfork
+ung	Diamond Mail
 uvb	Scarabshell Boots
+Viperfork	Viperfork
 rvs	Rejuvenation Potion
 Runeword62	Insight
 The Salamander	The Salamander
@@ -775,8 +775,8 @@ Runeword45	Gloom
 Nokozan Relic	Nokozan Relic
 xrn	Grand Crown
 Runeword130	Spirit
-xui	Ghost Armor
 Tancred's Hobnails	Tancred's Hobnails
+xui	Ghost Armor
 Runeword137	Stone
 9ja	War Javelin
 7bt	Decapitator
@@ -791,13 +791,13 @@ Civerb's Icon	Civerb's Icon
 hlm	Helm
 Runeword82	Melody
 xkp	Sallet
-Tal Rasha's Lidless Eye	Tal Rasha's Lidless Eye
 Shadowfang	Shadowfang
+Tal Rasha's Lidless Eye	Tal Rasha's Lidless Eye
 9kr	Cinquedeas
 orb	Orb
-9bt	Tabar
-xrs	Cuirass
 pa4	Aerin Shield
+xrs	Cuirass
+9bt	Tabar
 scro	Scroll
 Blacktongue	Blacktongue
 Blackbog's Sharp	Blackbog's Sharp
@@ -811,24 +811,24 @@ Runeword27	Dragon
 Tancred's Spine	Tancred's Spine
 72h	Legend Sword
 Pelta Lunata	Pelta Lunata
+Gleamscythe	Gleamscythe
 Duskdeep	Duskdeep
 gly	Flawless Topaz
-Gleamscythe	Gleamscythe
 jav	Javelin
 hamm	Hammer
 pac	Sacred Rondache
 hgl	Gauntlets
 Butcher's Pupil	Butcher's Pupil
 brn	Brandistock
-Templar's Might	Templar's Might
-Radimant's Sphere	Radament's Sphere
 9p9	Lance
+Radimant's Sphere	Radament's Sphere
+Templar's Might	Templar's Might
 Runeword19	Daylight
 msf	Shaft of the Horadric Staff
 6cb	Great Bow
 Berserker's Hauberk	Berserker's Hauberk
-Carin Shard	Carin Shard
 Boneflesh	Boneflesh
+Carin Shard	Carin Shard
 9gs	Tusk Sword
 Runeword117	Rain
 am8	Ceremonial Spear
@@ -850,9 +850,9 @@ Natalya's Totem	Natalya's Totem
 72a	Ettin Axe
 9h9	Bec-de-Corbin
 lbb	Long Battle Bow
-Greyform	Greyform
 mst	Morning Star
 9qr	Scissors Quhab
+Greyform	Greyform
 Souldrain	Soul Drainer
 Hellrack	Hellrack
 Runeword14	Chains of Honor
@@ -864,8 +864,8 @@ Wihtstan's Guard	Whitstan's Guard
 Lenyms Cord	Lenymo
 Angelic Sickle	Angelic Sickle
 obc	Eldritch Orb
-Chance Guards	Chance Guards
 xmg	Heavy Bracers
+Chance Guards	Chance Guards
 gema	Amethyst
 Runeword99	Voice of Reason
 sbw	Short Bow
@@ -876,8 +876,8 @@ Aldur's Gauntlet	Aldur's Rhythm
 7ba	Silver-edged Axe
 gpb	Perfect Sapphire
 tors	Armor
-Hand of Blessed Light	Hand of Blessed Light
 Runeword56	Revenge
+Hand of Blessed Light	Hand of Blessed Light
 Cathan's Visage	Cathan's Visage
 glb	Flawless Sapphire
 7ha	Tomahawk
@@ -887,61 +887,61 @@ Ondal's Wisdom	Ondal's Wisdom
 Runeword110	Principle
 Crown of Ages	Crown of Ages
 Arachnid Mesh	Arachnid Mesh
-9gm	Martel de Fer
 7sc	Mighty Scepter
+9gm	Martel de Fer
 ceh	Charged Essence of Hatred
 eyz	Eye
 cm1	Small Charm
 Runeword162	White
-Fleshripper	Fleshripper
-Atma's Scarab	Atma's Scarab
 obf	Dimensional Shard
+Atma's Scarab	Atma's Scarab
+Fleshripper	Fleshripper
 rod	Staves And Rods
 pa2	Rondache
 scep	Scepter
 Runeword54	Holy Thunder
-Seraph's Hymn	Seraph's Hymn
 Blood Crescent	Blood Crescent
+Seraph's Hymn	Seraph's Hymn
 Steel Carapice	Steel Carapace
 bkd	Key to the Cairn Stones
-flb	Flamberge
 7s7	Balrog Spear
-The Scalper	The Scalper
+flb	Flamberge
 Runeword157	Void
-Serpent Lord	Serpent Lord
+The Scalper	The Scalper
 wsc	War Scythe
+Serpent Lord	Serpent Lord
 Hwanin's Majesty	Hwanin's Majesty
-Arkaine's Valor	Arkaine's Valor
 9wa	Naga
+Arkaine's Valor	Arkaine's Valor
 Vidala's Rig	Vidala's Rig
 dhn	Diablo's Horn
 Berserker's Garb	Berserker's Arsenal
-bbb	Lam Esen's Tome
 Brainhew	Brainhew
+bbb	Lam Esen's Tome
 Runeword33	Enigma
 7yw	Ghost Wand
-Endlesshail	Endlesshail
-Pullspite	Stormstrike
 Runeword78	Lust
+Pullspite	Stormstrike
+Endlesshail	Endlesshail
 mbt	Chain Boots
 Runeword64	Judgement
 Runeword25	Destruction
 fhl	Full Helm
 7o7	Ogre Axe
-7br	Mancatcher
 ne4	Gargoyle Head
+7br	Mancatcher
 Iros Torch	Torch of Iro
 Soulfeast Tine	Soulfeast Tine
 vbl	Light Belt
 vip	Top of the Horadric Staff
-Razortail	Razortail
 The Centurion	The Centurion
+Razortail	Razortail
 mpot	Mana Potion
-Ironpelt	Iron Pelt
 Infernal Tools	Infernal Tools
+Ironpelt	Iron Pelt
 pole	Polearm
-Vampiregaze	Vampire Gaze
 6sb	Spider Bow
+Vampiregaze	Vampire Gaze
 6rx	Demon Crossbow
 gsd	Great Sword
 Plague Bearer	Plague Bearer
@@ -953,8 +953,8 @@ Runeword9	Bramble
 Swordguard	Swordguard
 Grim's Burning Dead	Grim's Burning Dead
 gsv	Amethyst
-uow	Aegis
 pad	Kurast Shield
+uow	Aegis
 Runeword142	Terror
 clas	Class Specific
 Nightsmoke	Nightsmoke
@@ -962,38 +962,38 @@ pa6	Akaran Targe
 r20	Lem Rune
 Runeword149	Trust
 bae	Conqueror Crown
-bld	Blade
 Runeword147	Tradition
+bld	Blade
 gzv	Flawless Amethyst
-6s7	Diamond Bow
 uhb	Myrmidon Greaves
+6s7	Diamond Bow
 g34	The Golden Bird
 Gheed's Fortune	Gheed's Fortune
 r08	Ral Rune
 Iceblink	Iceblink
-aar	Ancient Armor
 utu	Wire Fleece
+aar	Ancient Armor
 Telling of Beads	Telling of Beads
 Wraithflight	Wraith Flight
 gem4	Perfect Gem
 Nosferatu's Coil	Nosferatu's Coil
 Death's Hand	Death's Hand
 Felloak	Felloak
-r11	Amn Rune
 Cleglaw's Pincers	Cleglaw's Pincers
 Tancred's Crowbill	Tancred's Crowbill
-Kerke's Sanctuary	Gerke's Sanctuary
-Witherstring	Witherstring
+r11	Amn Rune
 nea	Hierophant Trophy
 Azurewrath	Azurewrath
+Witherstring	Witherstring
+Kerke's Sanctuary	Gerke's Sanctuary
 Trang-Oul's Avatar	Trang-Oul's Avatar
 Runeword42	Fortune
 tax	Throwing Axe
 pa9	Gilded Shield
 8cb	Double Bow
 Bul Katho's Wedding Band	Bul-Kathos' Wedding Band
-Pluckeye	Pluckeye
 Angelical Raiment	Angelic Raiment
+Pluckeye	Pluckeye
 Runeword136	Sting
 9br	War Fork
 Cow King's Hide	Cow King's Hide
@@ -1002,20 +1002,20 @@ glv	Glaive
 6ls	Stalagmite
 Ironward	Astreon's Iron Ward
 tsc	Scroll of Town Portal
-Spellsteel	Spellsteel
 Dimoaks Hew	Dimoak's Hew
+Spellsteel	Spellsteel
 ques	Quest
 7cl	Truncheon
 7b7	Champion Sword
 Deathbit	Deathbit
-Annihilus	Annihilus
-9sb	Shamshir
 7cr	Phase Blade
+9sb	Shamshir
+Annihilus	Annihilus
 7ga	Champion Axe
 7ss	Falcata
 Dracul's Grasp	Dracul's Grasp
-Hotspur	Hotspur
 Runeword39	Famine
+Hotspur	Hotspur
 Runeword97	Patter
 ob3	Smoked Sphere
 Hellplague	Hellplague
@@ -1038,21 +1038,21 @@ M'avina's Battle Hymn	M'avina's Battle Hymn
 bwn	Bone Wand
 belt	Belt
 dr8	Hunter's Guise
-bsw	Bastard Sword
 ba8	Rage Mask
+bsw	Bastard Sword
 Warshrike	Warshrike
 Runeword115	Question
-stu	Studded Leather
 Tal Rasha's Adjudication	Tal Rasha's Adjudication
+stu	Studded Leather
 The Gavel of Pain	The Gavel of Pain
 Runeword1	Ancients' Pledge
 Doombringer	Doombringer
 glg	Flawless Emerald
 Jalal's Mane	Jalal's Mane
-Jadetalon	Jade Talon
 Blackhand Key	Blackhand Key
-Giantmaimer	Giant Maimer
+Jadetalon	Jade Talon
 Baranar's Star	Baranar's Star
+Giantmaimer	Giant Maimer
 Runeword40	Flame
 mxb	Crossbow
 Husoldal Evo	Husoldal Evo
@@ -1060,15 +1060,15 @@ miss	Missile Weapon
 torc	Torch
 Immortal King's Detail	Immortal King's Detail
 Krintizs Skewer	Skewer of Krintiz
-Firelizard's Talons	Firelizard's Talons
-Armor	Armor
 Kuko Shakaku	Kuko Shakaku
+Armor	Armor
+Firelizard's Talons	Firelizard's Talons
 helm	Helm
-Tarnhelm	Tarnhelm
 nee	Succubus Skull
+Tarnhelm	Tarnhelm
 r18	Ko Rune
-Dark Clan Crusher	Dark Clan Crusher
 7wb	Wrist Sword
+Dark Clan Crusher	Dark Clan Crusher
 7lw	Feral Claws
 Runeword71	Lawbringer
 Venomsward	Venom Ward
@@ -1077,8 +1077,8 @@ Runeword101	Peril
 Sigon's Complete Steel	Sigon's Complete Steel
 uhn	Boneweave
 gpw	Perfect Diamond
-Snowclash	Snowclash
 7wa	Berserker Axe
+Snowclash	Snowclash
 pala	Paladin Item
 Larzuk's Champion	Larzuk's Champion
 Ethereal Edge	Ethereal Edge
@@ -1088,11 +1088,11 @@ xtp	Mage Plate
 7bk	Winged Knife
 Peasent Crown	Peasant Crown
 9fc	Tulwar
-xlb	Demonhide Boots
 ulm	Armet
+xlb	Demonhide Boots
 8cs	Cedar Staff
-The Reaper's Toll	The Reaper's Toll
 9bl	Stiletto
+The Reaper's Toll	The Reaper's Toll
 axf	Hatchet Hands
 Death's Touch	Death's Touch
 Gloomstrap	Gloom's Trap
@@ -1102,18 +1102,18 @@ spk	Spiked Shield
 Rixots Keen	Rixot's Keen
 baa	Slayer Guard
 Gimmershred	Gimmershred
-qui	Quilted Armor
 Hwanin's Refuge	Hwanin's Refuge
+qui	Quilted Armor
 xuc	Defender
 necr	Necromancer Item
 Fleshrender	Fleshrender
 Runeword16	Chaos
 Widowmaker	Widowmaker
 Runeword107	Praise
-Andariel's Visage	Andariel's Visage
 Arreat's Face	Arreat's Face
-The Cat's Eye	The Cat's Eye
+Andariel's Visage	Andariel's Visage
 Bul-Kathos' Children	Bul-Kathos' Children
+The Cat's Eye	The Cat's Eye
 uml	Luna
 9gd	Executioner Sword
 Bonehew	Bonehew
@@ -1125,10 +1125,10 @@ mp1	Minor Mana Potion
 bax	Broad Axe
 gem0	Chipped Gem
 elix	Elixir
-6lw	Hydra Bow
 Runeword151	Unbending Will
-9b8	Hurlbat
+6lw	Hydra Bow
 Runeword112	Prudence
+9b8	Hurlbat
 Arcanna's Sign	Arcanna's Sign
 wsd	War Sword
 xul	Chaos Armor
@@ -1149,25 +1149,25 @@ xrg	Scutum
 9fl	Knout
 fed	Festering Essence of Destruction
 xhl	Basinet
-gts	Gothic Shield
 xvb	Sharkskin Boots
+gts	Gothic Shield
 hbt	Greaves
 The Rising Sun	The Rising Sun
 Vidala's Ambush	Vidala's Ambush
-sku	Skull
 Immortal King's Forge	Immortal King's Forge
 Guillaume's Face	Guillaume's Face
+sku	Skull
 The Hand of Broc	The Hand of Broc
-Raven Frost	Raven Frost
 Crushflange	Crushflange
+Raven Frost	Raven Frost
 pelt	Pelt
 umc	Mithril Coil
 Constricting Ring	Constricting Ring
 Death's Guard	Death's Guard
-Blackoak Shield	Blackoak Shield
 Runeword158	War
-amu	Amulet
+Blackoak Shield	Blackoak Shield
 umb	Boneweave Boots
+amu	Amulet
 j34	A Jade Figurine
 Runeword122	Sanctuary
 urs	Great Hauberk
@@ -1181,20 +1181,20 @@ club	Club
 Stormshield	Stormshield
 hrn	Horn
 shie	Shield
-Leviathan	Leviathan
-7m7	Ogre Maul
 ba2	Fanged Helm
+7m7	Ogre Maul
+Leviathan	Leviathan
 thro	Thrown Weapon
-Flamebellow	Flamebellow
 Wormskull	Wormskull
+Flamebellow	Flamebellow
 Runeword95	Passion
 Runeword77	Loyalty
 Ghoulhide	Ghoulhide
 misc	Miscellaneous
 r30	Ber Rune
 leg	Wirt's Leg
-gsg	Emerald
 Tancred's Skull	Tancred's Skull
+gsg	Emerald
 Ginther's Rift	Ginther's Rift
 amaz	Amazon Item
 Shadowkiller	Shadow Killer
@@ -1207,16 +1207,16 @@ Ravenlore	Ravenlore
 mele	Melee Weapon
 Langer Briser	Langer Briser
 lbl	Sash
-spr	Spear
 Rusthandle	Rusthandle
+spr	Spear
 Runeword52	Heaven's Will
 The Diggler	The Diggler
 rpot	Rejuv Potion
-Islestrike	Islestrike
 Runeword90	Night
+Islestrike	Islestrike
 spt	Spetum
-Steelclash	Steelclash
 Civerb's Vestments	Civerb's Vestments
+Steelclash	Steelclash
 Runeword167	Wonder
 r24	Ist Rune
 ob7	Crystalline Globe
@@ -1236,15 +1236,15 @@ glov	Gloves
 Demonhorn's Edge	Demonhorn's Edge
 7ls	Cryptic Sword
 M'avina's True Sight	M'avina's True Sight
-9ts	Harpoon
 Runeword21	Deception
+9ts	Harpoon
 Shaftstop	Shaftstop
 Bane Ash	Bane Ash
 Runeword124	Shadow
 Arcanna's Deathwand	Arcanna's Deathwand
 Laying of Hands	Laying of Hands
-xap	War Hat
 The Patriarch	The Patriarch
+xap	War Hat
 ne2	Zombie Head
 xit	Dragon Shield
 Alma Negra	Alma Negra
@@ -1252,8 +1252,8 @@ gold	Gold
 tpot	Missile Potion
 ywn	Yew Wand
 Natalya's Shadow	Natalya's Shadow
-Que-Hegan's Wisdon	Que-Hegan's Wisdom
 Runeword41	Fortitude
+Que-Hegan's Wisdon	Que-Hegan's Wisdom
 wst	War Staff
 clw	Claws
 qhr	Khalim's Heart
@@ -1265,10 +1265,10 @@ r14	Dol Rune
 ne5	Demon Head
 Cow King's Hoofs	Cow King's Hooves
 7wd	Mythical Sword
-Nagelring	Nagelring
-gfw	Flawed Diamond
 neb	Minion Skull
+Nagelring	Nagelring
 Ripsaw	Ripsaw
+gfw	Flawed Diamond
 am9	Ceremonial Pike
 8mx	Siege Crossbow
 The Battlebranch	The Battlebranch
@@ -1279,8 +1279,8 @@ Milabrega's Regalia	Milabrega's Regalia
 Vidala's Snare	Vidala's Snare
 gsw	Diamond
 gcg	Chipped Emerald
-9ma	Flanged Mace
 Runeword50	Hatred
+9ma	Flanged Mace
 Runeword38	Faith
 Gull	Gull
 6cs	Elder Staff
@@ -1306,23 +1306,23 @@ Sureshrill Frost	Sureshrill Frost
 Dragonscale	Dragonscale
 utp	Archon Plate
 Horadric Staff	Horadric Staff
-Blackleach Blade	Blackleach Blade
-Runeword85	Morning
 Runeword105	Pillar of Faith
+Runeword85	Morning
+Blackleach Blade	Blackleach Blade
 jew	Jewel
 swor	Sword
 The Iron Jang Bong	The Iron Jang Bong
 7tw	Runic Talons
 Guardian Naga	Guardian Naga
 Spike Thorn	Spike Thorn
-ful	Full Plate Mail
 ci3	Diadem
-Eaglehorn	Eaglehorn
+ful	Full Plate Mail
 xhn	Mesh Armor
+Eaglehorn	Eaglehorn
 Trang-Oul's Guise	Trang-Oul's Guise
 9cl	Cudgel
-gsr	Ruby
 Razortine	Razortine
+gsr	Ruby
 Waterwalk	Waterwalk
 ltp	Light Plate
 wrb	Wrist Blade
@@ -1331,8 +1331,8 @@ head	Voodoo Heads
 The Grandfather	The Grandfather
 tch	Torch
 ama	Ceremonial Javelin
-Moonfall	Moonfall
 dre	Sky Spirit
+Moonfall	Moonfall
 Runeword73	Lightning
 crs	Crystal Sword
 Runeword154	Venom
@@ -1341,8 +1341,8 @@ Deaths's Web	Death's Web
 ice	Keep it to thaw Anya}Malah's Potion
 Iratha's Cord	Iratha's Cord
 Cow King's Leathers	Cow King's Leathers
-dr5	Spirit Mask
 uld	Kraken Shell
+dr5	Spirit Mask
 Orphan's Call	Orphan's Call
 xts	Ancient Shield
 Tomb Reaver	Tomb Reaver
@@ -1365,21 +1365,21 @@ Manald Heal	Manald Heal
 utb	Mirrored Boots
 r06	Ith Rune
 Stoneraven	Stoneraven
-Chromatic Ire	Chromatic Ire
 Runeword17	Crescent Moon
+Chromatic Ire	Chromatic Ire
 xld	Sharktooth Armor
 uth	Lacquered Plate
-Bloodraven's Charge	Blood Raven's Charge
-Hawkmail	Hawkmail
-cap	Cap
 dr3	Antlers
+Hawkmail	Hawkmail
+Bloodraven's Charge	Blood Raven's Charge
+cap	Cap
 McAuley's Taboo	Sander's Taboo
 Cathan's Seal	Cathan's Seal
 Leadcrow	Leadcrow
 Nord's Tenderizer	Nord's Tenderizer
 gsy	Topaz
-Runeword139	Strength
 Runeword68	Knowledge
+Runeword139	Strength
 xyz	Right Click to permanently add 20 to Life}Potion of Life
 hp4	Greater Healing Potion
 Arm of King Leoric	Arm of King Leoric
@@ -1393,9 +1393,9 @@ Trang-Oul's Girth	Trang-Oul's Girth
 am2	Reflex Bow
 Stormguild	Stormguild
 Runeword140	Tempest
+uhm	Spired Helm
 Cliffkiller	Cliffkiller
 hp1	Minor Healing Potion
-uhm	Spired Helm
 scha	Small Charm
 bac	Fury Visor
 Sazabi's Grand Tribute	Sazabi's Grand Tribute
@@ -1403,20 +1403,20 @@ amc	Grand Matron Bow
 geme	Emerald
 Gorerider	Gore Rider
 Milabrega's Orb	Milabrega's Orb
-Titan's Revenge	Titan's Revenge
 Crainte Vomir	Crainte Vomir
-Earthshifter	Earth Shifter
+Titan's Revenge	Titan's Revenge
 6mx	Gorgon Crossbow
 6bs	Shillelagh
+Earthshifter	Earth Shifter
 ba9	Savage Helmet
 7dg	Bone Knife
 Runeword93	Oblivion
 Isenhart's Parry	Isenhart's Parry
 Runeword75	Lore
 Sparking Mail	Sparking Mail
+ush	Troll Nest
 Coif of Glory	Coif of Glory
 bsd	Broad Sword
-ush	Troll Nest
 Sigon's Gage	Sigon's Gage
 Wolfhowl	Wolfhowl
 Vidala's Barb	Vidala's Barb
@@ -1431,11 +1431,11 @@ cst	Gnarled Staff
 gfy	Flawed Topaz
 qf1	Khalim's Flail
 Arctic Mitts	Arctic Mitts
-Lycander's Flank	Lycander's Flank
+Runeword61	Innocence
 Pompe's Wrath	Pompeii's Wrath
 ob5	Jared's Stone
 9st	Yari
-Runeword61	Innocence
+Lycander's Flank	Lycander's Flank
 9sm	Cutlass
 Lance Guard	Lance Guard
 Wilhelm's Pride	Wilhelm's Pride
@@ -1462,5 +1462,5 @@ Runeword119	Red
 Runeword35	Envy
 Berserker's Headgear	Berserker's Headgear
 The Fetid Sprinkler	The Fetid Sprinkler
-9ar	Quhab
 lbw	Long Bow
+9ar	Quhab
