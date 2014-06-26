@@ -1,0 +1,3 @@
+# ignore my old backup being converted to a Github repo
+!.gitignore
+archive
