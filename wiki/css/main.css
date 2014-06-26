@@ -1,43 +1,78 @@
 body {
-	font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt;
-	color: #afafaf;
-	background-color: #000000;
-	margin-left: 20;
-	margin-right: 40;
-	margin-top: 10;
-	margin-bottom: 50;
+  margin:0; padding:15px 0 0 15px;
+  background:#000000;
+  font:13px/1.2em Arial, Helvetica, sans-serif; color:#afafaf;
 }
 
-b			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; font-weight: bold; font-style: normal; color: #cfcfcf; }
-p			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #afafaf; }
-span		{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; }
-blockquote	{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #afafaf; }
-em			{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold; font-style: normal; font-size: 10pt; }
-li			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; line-height: 110% }
-small		{ font-family: Arial,Helvetica,Sans-Serif; font-size: 8pt; font-weight: normal; font-style: normal; }
-pre 		{ font-family: courier,monospace; color: #9e9e9e; font-size: 10pt; }
+/* reset */
+p, pre, blockquote, address, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, form, label, fieldset { margin:0; padding:0; }
+ul, ol, li { list-style:none; }
+input, select, textarea { font:11px Arial, sans-serif; color:#333; line-height:1.2em; }
+table, caption, td, th { margin:0; padding:0; font-size:12px; line-height:1.6em; font-weight:normal; }
+img { display:inline; }
 
-a			  { font-family: Arial,Helvetica,Sans-Serif; font-weight: bold; text-decoration: none; }
-a:link		{ color: #928a70; }
-a:visited	{ color: #706850; }
-a:active	{ color: #ffffff; }
-a:hover		{ color: #ffffff; }
+/* base spacing */
+.article { width:90%; }
+p, ul { margin:0 0 1em; }
 
-a.sma			{ font-family: Arial,Helvetica,Sans-Serif; font-weight: normal; font-size: 8pt; text-decoration:underline; }
-a.sma:link		{ color: #B4AC92; }
-a.sma:visited	{ color: #928A72; }
-a.sma:active	{ color: #ffffff; }
-a.sma:hover		{ color: #ffffff; }
+/* colors */
+.red   { color:#cf8f20; }
+.green { color:#20cf20; }
+.rare  { color:#cccc00; }
+.magic { color:#33ccff; }
 
-table	    { font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #cfcfaf; }
-tr.head 	{ background-color: #400000; color: #c0c080; font-weight: normal; line-height: 10pt; }
-tr 			{ background-color: #200000; line-height: 11pt; }
+b     { color:#cfcfcf; }
+em    { font-weight:bold; font-style:normal; }
+li    { line-height:110% }
+small { font-size:8pt; }
+pre   { font-family:courier, monospace; color:#9e9e9e; font-size:10pt; }
 
-.bold 		{ font-weight: bold; }
-.resetbg 	{ background-color: black; color: #afafaf; font-weight: normal; line-height: normal; }
+/* links */
+a        { font-family:Arial,Helvetica,Sans-Serif; font-weight:bold; text-decoration:none; }
+a:link    { color:#928a70; }
+a:visited  { color:#706850; }
+a:active  { color:#ffffff; }
+a:hover    { color:#ffffff; }
+
+a.sma      { font-family:Arial,Helvetica,Sans-Serif; font-weight:normal; font-size:8pt; text-decoration:underline; }
+a.sma:link    { color:#B4AC92; }
+a.sma:visited  { color:#928A72; }
+a.sma:active  { color:#ffffff; }
+a.sma:hover    { color:#ffffff; }
+
+/* headings */
+h1, h2, h3, h4, h5 { font-weight:bold; line-height:1.1em; margin:0 0 0.5em; }
+h2 { font-size:16px; }
+
+/* base tables */
+table   { margin:0 0 2em; color:#afafaf; font-size:13px; }
+tr.head td { padding:4px 8px; background:#400000; color:#c0c080; font-weight:normal; line-height:1.3em; }
+tr      { background:#000; line-height:11pt; }
+td      { font-size:13px; background:#200000; padding:2px 8px; }
+
+/* table styles */
+tr.head { background-color:#400000; color:#c0c080; font-weight:normal; line-height:12pt; }
+.centered td { text-align:center; }
+
+/* misc */
+em.v { color:#8c8; }  /* patch version */
+
+.bold     { font-weight:bold; }
+.resetbg   { background-color:black; color:#afafaf; font-weight:normal; line-height:normal; }
+
+/* frameset */
+#fr-top { margin:0; padding:0; background:#000 url(../img/hr-gold.gif) repeat-x 0 100px; }
+#fr-top h1 { display:block; position:absolute; left:25px; top:9px; width:309px; height:79px; }
+#fr-top h1 img { display:block; border:0; }
+#fr-top p.sub  { margin:0; padding:0; position:absolute; left:85px; top:69px; }
+#fr-top p.sub  span { color:#71b643; }
+
+/* basic layout */
+div.clear { clear:both; overflow:hidden; height:0; }
+div.col     { float:left; margin:0 20px 0 0; }
+div.col-50  { width:45%; } 
 
 /* Item Bonuses */
-
 table.tbl-item-prop { width:640px; }
 
 .set { color:#00c400; font-weight:bold; }
@@ -47,6 +82,16 @@ table.tbl-item-prop { width:640px; }
 
 .bo1 {color:#4850B8;}
 .gld{color:#908858; font-weight:bold;}
-table {color: #afafaf;}
-tr {background-color: #000000; line-height: 10pt;}
+
+/* super uniques */
+#tsu td em { color:#888; font-size:70%; }
+#tsu td u  { color:#4c4; font-size:80%; text-decoration:none; margin-left:0.5em; }
+
+
+/* weapon tables */
+tr.num { line-height:10px; }
+td.base { color:#40cf40; }
+p.legend { font-size:13px; margin-left:1em; }
+
+.wpnfpa td { text-align:center; }
 
