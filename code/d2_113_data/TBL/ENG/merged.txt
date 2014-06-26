@@ -1,0 +1,1466 @@
+Venom Grip	Venom Grip
+Runeword18	Darkness
+Angelic Mantle	Angelic Mantle
+7sm	Ataghan
+Duriel's Shell	Duriel's Shell
+Culwens Point	Culwen's Point
+Giantskull	Giant Skull
+Cerebus	Cerebus' Bite
+Gore Ripper	Gore Ripper
+Stormlash	Stormlash
+Runeword11	Breath of the Dying
+7b8	Winged Axe
+zlb	Demonhide Sash
+Stone Crusher	Stone Crusher
+The Spirit Shroud	The Spirit Shroud
+cm3	Grand Charm
+Rings	Rings
+misl	Missile
+Godstrike Arch	Goldstrike Arch
+Sigon's Sabot	Sigon's Sabot
+r19	Fal Rune
+Bloodmoon	Bloodmoon
+gcy	Chipped Topaz
+6lb	Shadow Bow
+gwn	Grim Wand
+ned	Overseer Skull
+r25	Gul Rune
+upk	Blade Barrier
+r13	Shael Rune
+vps	Stamina Potion
+r32	Cham Rune
+Tyrael's Might	Tyrael's Might
+Milabrega's Rod	Milabrega's Rod
+buc	Buckler
+mboq	Magic Bow Quiv
+drf	Dream Spirit
+pab	Sacred Targe
+mp5	Super Mana Potion
+gax	Great Axe
+Runeword92	Obedience
+Lance of Yaggai	Lance of Yaggai
+bks	Scroll of Inifuss
+War Bonnet	Biggin's Bonnet
+wand	Wand
+Demonlimb	Demon Limb
+9la	Military Axe
+The Grim Reaper	The Grim Reaper
+Cleglaw's Brace	Cleglaw's Brace
+Griswolds's Redemption	Griswold's Redemption
+9m9	War Club
+msk	Mask
+The Ward	The Ward
+lst	Long Staff
+Messerschmidt's Reaver	Messerschmidt's Reaver
+Runeword72	Leaf
+7fc	Hydra Edge
+Runeword79	Madness
+Wall of the Eyeless	Wall of the Eyeless
+xth	Embossed Plate
+Steelpillar	Steel Pillar
+Aldur's Watchtower	Aldur's Watchtower
+lea	Leather Armor
+xhg	War Gauntlets
+7bl	Legend Spike
+gpv	Perfect Amethyst
+clm	Claymore
+Heaven's Brethren	Heaven's Brethren
+ba5	Avenger Guard
+Cathan's Mesh	Cathan's Mesh
+am7	Ceremonial Bow
+Mosers Blessed Circle	Moser's Blessed Circle
+scz	Scalp
+Tearhaunch	Tearhaunch
+gem3	Flawless Gem
+Djinnslayer	Djinn Slayer
+Hellslayer	Hellslayer
+Iratha's Coil	Iratha's Coil
+Tancred's Battlegear	Tancred's Battlegear
+Windhammer	Windhammer
+bowq	Bow Quiver
+9s8	Battle Scythe
+obb	Heavenly Stone
+lax	Large Axe
+Iratha's Finery	Iratha's Finery
+9s9	Simbilan
+M'avina's Embrace	M'avina's Embrace
+7sp	Tyrant Club
+Runeword53	Holy Tears
+Sigon's Guard	Sigon's Guard
+Runeword160	Wealth
+gfg	Flawed Emerald
+Trang-Oul's Scales	Trang-Oul's Scales
+Blade of Ali Baba	Blade of Ali Baba
+Runeword63	Jealousy
+Iratha's Cuff	Iratha's Cuff
+9pi	Great Pilum
+jewl	Jewel
+Runeword88	Nadir
+Darkforge Spawn	Darkforce Spawn
+xng	Linked Mail
+brz	Brain
+ulg	Bramble Mitts
+Immortal King's Stone Crusher	Immortal King's Stone Crusher
+Hsarus' Iron Heel	Hsarus' Iron Heel
+Gravepalm	Gravepalm
+9wd	Ancient Sword
+Stoutnail	Stoutnail
+hrt	Heart
+Stealskull	Stealskull
+Spiritforge	Spirit Forge
+Carrion Wind	Carrion Wind
+ob4	Clasped Orb
+Zakarum's Salvation	Zakarum's Salvation
+lxb	Light Crossbow
+vou	Voulge
+Bverrit Keep	Bverrit Keep
+skc	Chipped Skull
+Heaven's Taebaek	Taebaek's Glory
+ci0	Circlet
+gsc	Grand Scepter
+Runeword165	Wisdom
+mace	Mace
+Magewrath	Magewrath
+Hellcast	Hellcast
+Natalya's Odium	Natalya's Odium
+9dg	Poignard
+Runeword143	Thirst
+Cloudcrack	Cloudcrack
+7kr	Fanged Knife
+whm	War Hammer
+ob2	Sacred Globe
+Goldskin	Goldskin
+Civerb's Ward	Civerb's Ward
+seco	Second Hand
+Herald of Zakarum	Herald of Zakarum
+ear	Ear
+7ws	Caduceus
+umg	Vambraces
+Ormus' Robes	Ormus' Robes
+Schaefer's Hammer	Schaefer's Hammer
+7bw	Lich Wand
+mgl	Chain Gloves
+obd	Demon Heart
+9tw	Greater Talons
+circ	Circlet
+9wn	Burnt Wand
+Runeword46	Glory
+gcr	Chipped Ruby
+tal	Tail
+skr	Scissors Katar
+7xf	War Fist
+ghm	Great Helm
+7mt	Devil Star
+Runeword8	Bone
+ring	Ring
+Medusa's Gaze	Medusa's Gaze
+Runeword26	Doom
+Todesfaelle Flamme	Todesfaelle Flamme
+The Gnasher	The Gnasher
+Angelic Wings	Angelic Wings
+Runeword127	Siren's Song
+M'avina's Icy Clutch	M'avina's Icy Clutch
+xmb	Mesh Boots
+9ws	Divine Scepter
+9yw	Petrified Wand
+92h	Espandon
+Runeword155	Victory
+r05	Eth Rune
+Griffon's Eye	Griffon's Eye
+Runeword31	Edge
+fla	Flail
+Thunderstroke	Thunderstroke
+Arctic Horn	Arctic Horn
+9bs	Battle Sword
+gpg	Perfect Emerald
+0sc	Scroll of Knowledge
+gpm	Choking Gas Potion
+tes	Twisted Essence of Suffering
+wsp	War Scepter
+Arctic Gear	Arctic Gear
+8rx	Chu-Ko-Nu
+The Dragon Chang	The Dragon Chang
+The Stone of Jordan	The Stone of Jordan
+r10	Thul Rune
+ssd	Short Sword
+urg	Hyperion
+M'avina's Tenet	M'avina's Tenet
+Runeword84	Mist
+scy	Scythe
+The Disciple	The Disciple
+Dangoon's Teaching	Dangoon's Teaching
+9vo	Bill
+Runeword13	Call to Arms
+7ts	Winged Harpoon
+bar	Bardiche
+r31	Jah Rune
+mac	Mace
+lrg	Large Shield
+Stormchaser	Stormchaser
+The Atlantian	The Atlantean
+Runeword70	Law
+sbb	Short Battle Bow
+Runeword81	Malice
+Runeword169	Youth
+sorc	Sorceress Item
+Arcanna's Head	Arcanna's Head
+8sb	Edge Bow
+Berserker's Hatchet	Berserker's Hatchet
+Runeword28	Dread
+boot	Boots
+Amulet of the Viper	Amulet of the Viper
+dr9	Sacred Feathers
+pil	Pilum
+mxbq	Magic Xbow Quiv
+urn	Corona
+Frostwind	Frostwind
+Crescent Moon	Crescent Moon
+Hwanin's Justice	Hwanin's Justice
+pk3	Key of Destruction
+Goldwrap	Goldwrap
+glw	Flawless Diamond
+ukp	Hydraskull
+7sr	Hyperion Spear
+7cm	Highland Blade
+Rockfleece	Rockfleece
+xsk	Death Mask
+Runeword98	Peace
+ajav	Amazon Javelin
+Sandstorm Trek	Sandstorm Trek
+Bloodrise	Bloodrise
+6ss	Walking Stick
+Atma's Wail	Atma's Wail
+Naj's Circlet	Naj's Circlet
+Shadowdancer	Shadow Dancer
+qey	Khalim's Eye
+Runeword104	Piety
+9qs	Holy Water Sprinkler
+lbt	Boots
+uui	Dusk Shroud
+taxe	Throwing Axe
+ba3	Horned Helm
+gis	Giant Sword
+Suicide Branch	Suicide Branch
+am5	Maiden Javelin
+Runeword114	Purity
+mp3	Mana Potion
+ces	Cestus
+Razoredge	Razor's Edge
+r29	Sur Rune
+am4	Maiden Pike
+bsh	Bone Shield
+Hsarus' Iron Fist	Hsarus' Iron Fist
+brs	Breast Plate
+wms	Thawing Potion
+Griswolds Edge	Griswold's Edge
+Runeword48	Hand of Justice
+tkni	Throwing Knife
+xea	Serpentskin Armor
+Windforce	Windforce
+Odium	Odium
+uar	Sacred Armor
+r17	Lum Rune
+nef	Bloodlord Skull
+hxb	Heavy Crossbow
+The Eye of Etlich	The Eye of Etlich
+mss	Mephisto's Soulstone
+The Impaler	The Impaler
+Fechmars Axe	Axe of Fechmar
+The Vile Husk	The Vile Husk
+Twitchthroe	Twitchthroe
+Runeword168	Wrath
+The Jade Tan Do	The Jade Tan Do
+8hb	Razor Bow
+Athena's Wrath	Athena's Wrath
+ba7	Lion Helm
+9bk	War Dart
+Runeword109	Pride
+rune	Rune
+drui	Druid Item
+d33	Decoy Gidbinn
+Tal Rasha's Horadric Crest	Tal Rasha's Horadric Crest
+8l8	Large Siege Bow
+Skin of the Vipermagi	Skin of the Vipermagi
+apot	Antidote Potion
+lsd	Long Sword
+neg	Hellspawn Skull
+Rakescar	Rakescar
+tow	Tower Shield
+Lidless Wall	Lidless Wall
+flc	Falchion
+9wb	Wrist Spike
+blun	Blunt
+Nature's Peace	Nature's Peace
+opl	Fulminating Potion
+gps	Rancid Gas Potion
+bal	Balanced Axe
+fng	Fang
+mbl	Belt
+Death's Disguise	Death's Disguise
+Swordback Hold	Swordback Hold
+gfv	Flawed Amethyst
+Wizardspike	Wizardspike
+ashd	Auric Shields
+gemr	Ruby
+Runeword24	Despair
+Cranebeak	Cranebeak
+Doomspittle	Doomslinger
+Runeword125	Shadow of Doubt
+hpot	Healing Potion
+herb	Herb
+Saracen's Chance	Saracen's Chance
+Bloodfist	Bloodfist
+obe	Vortex Orb
+Runeword6	Black
+Nightwing's Veil	Nightwing's Veil
+spot	Stamina Potion
+Ironstone	Ironstone
+ass	Right Click to learn skill of your choice}Book of Skill
+7sb	Elegant Blade
+6hx	Colossus Crossbow
+Runeword65	King's Grace
+Runeword161	Whisper
+Arctic Binding	Arctic Binding
+Runeword138	Storm
+hp5	Super Healing Potion
+Runeword141	Temptation
+wax	War Axe
+baf	Guardian Crown
+pae	Zakarum Shield
+Runeword135	Still Water
+dra	Totemic Mask
+r21	Pul Rune
+Tiamat's Rebuke	Tiamat's Rebuke
+bhm	Bone Helm
+gcw	Chipped Diamond
+Bing Sz Wang	Bing Sz Wang
+uhc	Colossus Girdle
+Bloodtree Stump	Bloodtree Stump
+ne3	Unraveller Head
+6ws	Archon Staff
+Bonesob	Bonesnap
+Maelstromwrath	Maelstrom
+Runeword116	Radiance
+hfh	Hell Forge Hammer
+Crown of Thieves	Crown of Thieves
+cbw	Composite Bow
+Warriv's Warder	Warriv's Warder
+Darkglow	Darkglow
+uvc	Vampirefang Belt
+Haemosu's Adament	Haemosu's Adamant
+Highlord's Wrath	Highlord's Wrath
+9tk	Battle Dart
+Rimeraven	Raven Claw
+chn	Chain Mail
+pa7	Akaran Rondache
+9sr	War Spear
+r22	Um Rune
+fld	Field Plate
+Woestave	Woestave
+pax	Poleaxe
+7gi	Glorious Axe
+yps	Antidote Potion
+Gargoyle's Bite	Gargoyle's Bite
+ucl	Loricated Mail
+Headhunter's Glory	Head Hunter's Glory
+xar	Ornate Plate
+Bul-Kathos' Sacred Charge	Bul-Kathos' Sacred Charge
+book	Book
+hdm	Horadric Malus
+r03	Tir Rune
+luv	The Black Tower Key
+Marrowwalk	Marrowwalk
+elx	Elixir
+pk1	Key of Terror
+7gs	Balrog Blade
+spc	Spiked Club
+Whichwild String	Witchwild String
+paf	Vortex Shield
+mbr	Mephisto's Brain
+7wc	Giant Thresher
+Griswold's Valor	Griswold's Valor
+opm	Exploding Potion
+g33	The Gidbinn
+zhb	War Belt
+The Cranium Basher	The Cranium Basher
+Harlequin Crest	Harlequin Crest
+gems	Sapphire
+Infernal Sign	Infernal Sign
+gpr	Perfect Ruby
+gix	Giant Axe
+utg	Crusader Gauntlets
+Runeword7	Blood
+Sigon's Wrap	Sigon's Wrap
+Runeword76	Love
+Runeword23	Desire
+The Oculus	The Oculus
+Umes Lament	Ume's Lament
+am3	Maiden Spear
+r28	Lo Rune
+Pus Spiter	Pus Spitter
+amf	Matriarchal Javelin
+Stormeye	Stormeye
+8lb	Cedar Bow
+h2h2	Hand to Hand 2
+Immortal King	Immortal King
+7cs	Battle Cestus
+weap	Weapon
+7ma	Reinforced Mace
+Class Specific	Class-specific
+Bloodthief	Bloodthief
+7p7	War Pike
+Knell Striker	Knell Striker
+Bul-Kathos' Tribal Guardian	Bul-Kathos' Tribal Guardian
+Runeword123	Serendipity
+7pi	Stygian Pilum
+qll	Quill
+ob9	Sparkling Ball
+Runeword100	Penitence
+Isenhart's Horns	Isenhart's Horns
+r23	Mal Rune
+rxb	Repeating Crossbow
+The Mahim-Oak Curio	The Mahim-Oak Curio
+Natalya's Soul	Natalya's Soul
+Runeword10	Brand
+Fathom	Death's Fathom
+Cow King's Horns	Cow King's Horns
+7h7	Great Poleaxe
+Runeword29	Dream
+Crow Caw	Crow Caw
+Runeword44	Fury
+Runeword83	Memory
+Homunculus	Homunculus
+ne6	Mummified Trophy
+Naj's Ancient Set	Naj's Ancient Vestige
+Heart Carver	Heart Carver
+7tk	Flying Knife
+Runeword22	Delirium
+8hx	Ballista
+Steeldriver	Steeldriver
+gfb	Flawed Sapphire
+gem	Gem
+Goblin Toe	Goblin Toe
+tbt	Light Plated Boots
+Wisp	Wisp Projector
+Runeword134	Steel
+gcv	Chipped Amethyst
+8bs	Gothic Staff
+Runeword102	Pestilence
+sbr	Sabre
+Deathspade	Deathspade
+Runeword15	Chance
+ne1	Preserved Head
+gem1	Flawed Gem
+barb	Barbarian Item
+Griswold's Legacy	Griswold's Legacy
+Deathcleaver	Death Cleaver
+Runeword150	Truth
+jaw	Jawbone
+spea	Spear
+phlm	Primal Helm
+Runeword34	Enlightenment
+9bw	Tomb Wand
+Natalya's Mark	Natalya's Mark
+Buriza-Do Kyanon	Buriza-Do Kyanon
+Runeword86	Mystery
+Lavagout	Lava Gout
+dr6	Alpha Helm
+Victors Silk	Silks of the Victor
+ibk	Tome of Identify
+Infernostride	Infernostride
+Hellclap	Hellclap
+9tr	Fuscina
+Runeword113	Punishment
+tri	Trident
+7mp	War Spike
+7bs	Conquest Sword
+body	Body Part
+Runeword51	Heart of the Oak
+bad	Destroyer Helm
+uap	Shako
+2ax	Double Axe
+xpk	Barbed Shield
+Runeword108	Prayer
+Ichorsting	Ichorsting
+9ga	Gothic Axe
+Executioner's Justice	Executioner's Justice
+pik	Pike
+Coldsteel Eye	Coldsteel Eye
+Guardian Angel	Guardian Angel
+Undead Crown	Undead Crown
+Mara's Kaleidoscope	Mara's Kaleidoscope
+Infernal Cranium	Infernal Cranium
+xla	Demonhide Armor
+Lazarus Spire	Spire of Lazarus
+Spiritual Custodian	Dark Adherent
+6l7	Crusader Bow
+sml	Small Shield
+9sp	Barbed Club
+pa8	Protector Shield
+tr2	Right Click to Cast}Scroll of Resistance
+Runeword163	Wind
+sst	Short Staff
+Boneslayer Blade	Boneslayer Blade
+gpl	Strangling Gas Potion
+gemz	Skull
+Runeword67	Knight's Vigil
+comb	Combo Weapon
+amul	Amulet
+gsb	Sapphire
+Warlord's Trust	Warlord's Trust
+9mp	Crowbill
+Razorswitch	Razorswitch
+9pa	Partizan
+bow	Bow
+Ghostflame	Ghostflame
+Dwarf Star	Dwarf Star
+Tal Rasha's Fire-Spun Cloth	Tal Rasha's Fine-Spun Cloth
+Stormspire	Stormspire
+lgl	Leather Gloves
+knif	Knife
+Civerb's Cudgel	Civerb's Cudgel
+toa	Right-click to reset Stat/Skill Points}Token of Absolution
+9fb	Zweihander
+Blackhorn's Face	Blackhorn's Face
+Pierre Tombale Couant	Pierre Tombale Couant
+uea	Wyrmhide
+Goreshovel	Goreshovel
+gemt	Topaz
+isc	Scroll of Identify
+hla	Hard Leather Armor
+Skystrike	Skystrike
+sock	Socket Filler
+Runeword59	Ice
+r09	Ort Rune
+Headstriker	Headstriker
+Griswold's Heart	Griswold's Heart
+r16	Io Rune
+mcha	Medium Charm
+Riphook	Riphook
+Spiritkeeper	Spirit Keeper
+zmb	Mesh Belt
+hp3	Healing Potion
+Iratha's Collar	Iratha's Collar
+vgl	Heavy Gloves
+Runeword170	Zephyr
+7pa	Cryptic Axe
+key	Key
+Runeword118	Reason
+Soulflay	Soulflay
+gcb	Chipped Sapphire
+r04	Nef Rune
+bey	Baal's Eye
+aspe	Amazon Spear
+Sigurd's Staunch	Siggard's Stealth
+Gorefoot	Gorefoot
+8lw	Gothic Bow
+Heaven's Light	Heaven's Light
+rng	Ring Mail
+rvl	Full Rejuvenation Potion
+Trang-Oul's Wing	Trang-Oul's Wing
+Milabrega's Diadem	Milabrega's Diadem
+Boneshade	Boneshade
+clb	Club
+ne8	Sexton Trophy
+Rite of Passage	Rite of Passage
+xpl	Russet Armor
+Runeword30	Duress
+Zakarum's Hand	Zakarum's Hand
+Veil of Steel	Veil of Steel
+Naj's Puzzler	Naj's Puzzler
+Halaberd's Reign	Halaberd's Reign
+Corpsemourn	Corpsemourn
+Runeword94	Obsession
+Spirit Ward	Spirit Ward
+Spineripper	Spineripper
+Cathan's Sigil	Cathan's Sigil
+Rockstopper	Rockstopper
+Magefist	Magefist
+gth	Gothic Plate
+9b9	Gothic Sword
+Hwanin's Seal	Hwanin's Blessing
+uhl	Giant Conch
+utc	Troll Belt
+xsh	Grim Shield
+Eschuta's temper	Eschuta's Temper
+Steelgoad	Steelgoad
+usk	Demonhead
+btx	Battle Axe
+Aldur's Deception	Aldur's Deception
+ba1	Jawbone Cap
+swb	Short War Bow
+Staff of Kings	Staff of Kings
+Wizendraw	Wizendraw
+ops	Oil Potion
+Blastbark	Blastbark
+Runeword20	Death
+Lightsabre	Lightsabre
+9sc	Rune Scepter
+Runeword55	Honor
+Runeword128	Smoke
+Boneflame	Boneflame
+amd	Matriarchal Spear
+xlt	Templar Coat
+pa1	Targe
+Irices Shard	Spectral Shard
+gemd	Diamond
+Runeword37	Exile
+Runeword36	Eternity
+9cm	Dacian Falx
+ob8	Cloudy Sphere
+Gravenspine	Gravenspine
+Sazabi's Cobalt Redeemer	Sazabi's Cobalt Redeemer
+r15	Hel Rune
+9ba	Bearded Axe
+uhg	Ogre Gauntlets
+The Minataur	The Minotaur
+6sw	Ward Bow
+gfr	Flawed Ruby
+gma	Great Maul
+Runeword3	Authority
+7ja	Hyperion Javelin
+Runeword60	Infinity
+Bladebone	Bladebone
+Hellmouth	Hellmouth
+Runeword74	Lionheart
+Black Hades	Black Hades
+qf2	Khalim's Will
+7gl	Ghost Glaive
+2hs	Two-Handed Sword
+Merman's Speed	Merman's Sprocket
+Earthshaker	Earthshaker
+Naj's Light Plate	Naj's Light Plate
+r26	Vex Rune
+7qs	Seraph Rod
+7vo	Colossus Voulge
+Runeword89	Nature's Kingdom
+Steelshade	Steel Shade
+plt	Plate Mail
+lwb	Long War Bow
+drc	Sun Spirit
+ulc	Spiderweb Sash
+Tancred's Weird	Tancred's Weird
+9gw	Grave Wand
+r33	Zod Rune
+Runeword121	Rift
+Runeword57	Humility
+Silkweave	Silkweave
+dr4	Falcon Mask
+tbk	Tome of Town Portal
+Runeword145	Thunder
+9b7	Lochaber Axe
+9gl	Spiculum
+9cs	Hand Scythe
+Runeword111	Prowess in Battle
+axe	Axe
+9ss	Gladius
+Runeword12	Broken Promise
+9di	Rondel
+McAuley's Folly	Sander's Folly
+Ondal's Almighty	Ondal's Almighty
+9ha	Hatchet
+mp4	Greater Mana Potion
+Rattlecage	Rattlecage
+dr2	Hawk Helm
+std	Standard of Heroes
+Runeword106	Plague
+hst	Horadric Staff
+Hellfire Torch	Hellfire Torch
+pa3	Heraldic Shield
+Piercerib	Rogue's Bow
+Frostburn	Frostburn
+Runeword5	Beauty
+Immortal King's Pillar	Immortal King's Pillar
+drd	Earth Spirit
+M'avina's Caster	M'avina's Caster
+Toothrow	Toothrow
+xhm	Winged Helm
+xml	Round Shield
+assn	Assassin Item
+Kelpie Snare	Kelpie Snare
+8s8	Short Siege Bow
+Bladebuckle	Bladebuckle
+Runeword152	Valor
+Arctic Furs	Arctic Furs
+McAuley's Riprap	Sander's Riprap
+Thudergod's Vigor	Thundergod's Vigor
+Darkfear	Darkfear
+Hell Forge Hammer	Hell Forge Hammer
+gld	Gold
+xow	Pavise
+Hsarus' Defense	Hsarus' Defense
+am1	Stag Bow
+Rainbow Facet	Rainbow Facet
+7st	Ghost Spear
+Stormrider	Stormrider
+Isenhart's Case	Isenhart's Case
+r07	Tal Rune
+7s8	Thresher
+Runeword153	Vengeance
+ci2	Tiara
+Tal Rasha's Howling Wind	Tal Rasha's Guardianship
+Runeword159	Water
+The Face of Horror	The Face of Horror
+Arioc's Needle	Arioc's Needle
+Hone Sundan	Hone Sundan
+scl	Scale Mail
+Runeword131	Splendor
+armo	Any Armor
+xlm	Casque
+ci1	Coronet
+Lycander's Aim	Lycander's Aim
+Horizon's Tornado	Horizon's Tornado
+aqv	Arrows
+spl	Splint Mail
+Runeword69	Last Wish
+hp2	Light Healing Potion
+Stormspike	Stormspike
+wpot	Thawing Potion
+hbl	Plated Belt
+9xf	Fascia
+Runeword32	Elation
+9ls	Rune Sword
+xtu	Trellised Armor
+mpi	Military Pick
+wnd	Wand
+The Meat Scraper	The Meat Scraper
+7ax	Small Crescent
+xh9	Grim Helm
+Verdugo's Hearty Cord	Verdungo's Hearty Cord
+xvg	Sharkskin Gloves
+Hexfire	Hexfire
+Runeword144	Thought
+7wh	Legendary Mallet
+Runeword103	Phoenix
+ne9	Cantor Trophy
+Warpspear	Warpspear
+hal	Halberd
+Lacerator	Lacerator
+The Gladiator's Bane	The Gladiator's Bane
+dir	Dirk
+uh9	Bone Visage
+Wartraveler	War Traveler
+hbw	Hunter's Bow
+String of Ears	String of Ears
+ulb	Wyrmhide Boots
+Demon Machine	Demon Machine
+bkf	Balanced Knife
+Immortal King's Soul Cage 	Immortal King's Soul Cage
+cm2	Large Charm
+Runeword126	Silence
+ob6	Glowing Orb
+Runeword156	Voice
+Cleglaw's Claw	Cleglaw's Claw
+Howltusk	Howltusk
+Runeword166	Woe
+Steelrend	Steelrend
+Demon's Arch	Demon's Arch
+Trang-Oul's Claws	Trang-Oul's Claws
+Arcanna's Flesh	Arcanna's Flesh
+Visceratuant	Visceratuant
+flg	Flag
+amb	Matriarchal Bow
+ung	Diamond Mail
+uts	Ward
+Viperfork	Viperfork
+uvb	Scarabshell Boots
+rvs	Rejuvenation Potion
+Runeword62	Insight
+The Salamander	The Salamander
+drb	Blood Spirit
+Infernal Torch	Infernal Torch
+Heavenly Garb	Heavenly Garb
+Snakecord	Snakecord
+Runeword45	Gloom
+Nokozan Relic	Nokozan Relic
+xrn	Grand Crown
+Runeword130	Spirit
+xui	Ghost Armor
+Tancred's Hobnails	Tancred's Hobnails
+Runeword137	Stone
+9ja	War Javelin
+7bt	Decapitator
+9wc	Grim Scythe
+Skin of the Flayerd One	Skin of the Flayed One
+Runeword87	Myth
+Skullder's Ire	Skullder's Ire
+skp	Skull Cap
+7tr	Stygian Pike
+skz	Perfect Skull
+Civerb's Icon	Civerb's Icon
+hlm	Helm
+Runeword82	Melody
+xkp	Sallet
+Tal Rasha's Lidless Eye	Tal Rasha's Lidless Eye
+Shadowfang	Shadowfang
+9kr	Cinquedeas
+orb	Orb
+9bt	Tabar
+xrs	Cuirass
+pa4	Aerin Shield
+scro	Scroll
+Blacktongue	Blacktongue
+Blackbog's Sharp	Blackbog's Sharp
+spe	Spleen
+7la	Feral Axe
+Hwanin's Splendor	Hwanin's Splendor
+Cutthroat1	Bartuc's Cut-Throat
+Soul Harvest	Soul Harvest
+Metalgrid	Metalgrid
+Runeword27	Dragon
+Tancred's Spine	Tancred's Spine
+72h	Legend Sword
+Pelta Lunata	Pelta Lunata
+Duskdeep	Duskdeep
+gly	Flawless Topaz
+Gleamscythe	Gleamscythe
+jav	Javelin
+hamm	Hammer
+pac	Sacred Rondache
+hgl	Gauntlets
+Butcher's Pupil	Butcher's Pupil
+brn	Brandistock
+Templar's Might	Templar's Might
+Radimant's Sphere	Radament's Sphere
+9p9	Lance
+Runeword19	Daylight
+msf	Shaft of the Horadric Staff
+6cb	Great Bow
+Berserker's Hauberk	Berserker's Hauberk
+Carin Shard	Carin Shard
+Boneflesh	Boneflesh
+9gs	Tusk Sword
+Runeword117	Rain
+am8	Ceremonial Spear
+rin	Ring
+Cathan's Traps	Cathan's Traps
+dgr	Dagger
+The Chieftan	The Chieftain
+upl	Balrog Skin
+uul	Shadow Plate
+The Tannr Gorerod	The Tannr Gorerod
+paa	Royal Shield
+ba6	Jawbone Visor
+xboq	Crossbow Quiver
+ob1	Eagle Orb
+Runeword91	Oath
+tgl	Light Gauntlets
+9mt	Jagged Star
+Natalya's Totem	Natalya's Totem
+72a	Ettin Axe
+9h9	Bec-de-Corbin
+lbb	Long Battle Bow
+Greyform	Greyform
+mst	Morning Star
+9qr	Scissors Quhab
+Souldrain	Soul Drainer
+Hellrack	Hellrack
+Runeword14	Chains of Honor
+Immortal King's Will	Immortal King's Will
+Tal Rasha's Wrappings	Tal Rasha's Wrappings
+ula	Scarab Husk
+r02	Eld Rune
+Wihtstan's Guard	Whitstan's Guard
+Lenyms Cord	Lenymo
+Angelic Sickle	Angelic Sickle
+obc	Eldritch Orb
+Chance Guards	Chance Guards
+xmg	Heavy Bracers
+gema	Amethyst
+Runeword99	Voice of Reason
+sbw	Short Bow
+dr1	Wolf Head
+hrb	Herb
+skf	Flawed Skull
+Aldur's Gauntlet	Aldur's Rhythm
+7ba	Silver-edged Axe
+gpb	Perfect Sapphire
+tors	Armor
+Hand of Blessed Light	Hand of Blessed Light
+Runeword56	Revenge
+Cathan's Visage	Cathan's Visage
+glb	Flawless Sapphire
+7ha	Tomahawk
+mp2	Light Mana Potion
+xtb	Battle Boots
+Ondal's Wisdom	Ondal's Wisdom
+Runeword110	Principle
+Crown of Ages	Crown of Ages
+Arachnid Mesh	Arachnid Mesh
+9gm	Martel de Fer
+7sc	Mighty Scepter
+ceh	Charged Essence of Hatred
+eyz	Eye
+cm1	Small Charm
+Runeword162	White
+Fleshripper	Fleshripper
+Atma's Scarab	Atma's Scarab
+obf	Dimensional Shard
+rod	Staves And Rods
+pa2	Rondache
+scep	Scepter
+Runeword54	Holy Thunder
+Seraph's Hymn	Seraph's Hymn
+Blood Crescent	Blood Crescent
+Steel Carapice	Steel Carapace
+bkd	Key to the Cairn Stones
+flb	Flamberge
+7s7	Balrog Spear
+The Scalper	The Scalper
+Runeword157	Void
+Serpent Lord	Serpent Lord
+wsc	War Scythe
+Hwanin's Majesty	Hwanin's Majesty
+Arkaine's Valor	Arkaine's Valor
+9wa	Naga
+Vidala's Rig	Vidala's Rig
+dhn	Diablo's Horn
+Berserker's Garb	Berserker's Arsenal
+bbb	Lam Esen's Tome
+Brainhew	Brainhew
+Runeword33	Enigma
+7yw	Ghost Wand
+Endlesshail	Endlesshail
+Pullspite	Stormstrike
+Runeword78	Lust
+mbt	Chain Boots
+Runeword64	Judgement
+Runeword25	Destruction
+fhl	Full Helm
+7o7	Ogre Axe
+7br	Mancatcher
+ne4	Gargoyle Head
+Iros Torch	Torch of Iro
+Soulfeast Tine	Soulfeast Tine
+vbl	Light Belt
+vip	Top of the Horadric Staff
+Razortail	Razortail
+The Centurion	The Centurion
+mpot	Mana Potion
+Ironpelt	Iron Pelt
+Infernal Tools	Infernal Tools
+pole	Polearm
+Vampiregaze	Vampire Gaze
+6sb	Spider Bow
+6rx	Demon Crossbow
+gsd	Great Sword
+Plague Bearer	Plague Bearer
+h2h	Hand to Hand
+Spire of Honor	Spire of Honor
+Runeword49	Harmony
+Runeword9	Bramble
+8ws	Rune Staff
+Swordguard	Swordguard
+Grim's Burning Dead	Grim's Burning Dead
+gsv	Amethyst
+uow	Aegis
+pad	Kurast Shield
+Runeword142	Terror
+clas	Class Specific
+Nightsmoke	Nightsmoke
+pa6	Akaran Targe
+r20	Lem Rune
+Runeword149	Trust
+bae	Conqueror Crown
+bld	Blade
+Runeword147	Tradition
+gzv	Flawless Amethyst
+6s7	Diamond Bow
+uhb	Myrmidon Greaves
+g34	The Golden Bird
+Gheed's Fortune	Gheed's Fortune
+r08	Ral Rune
+Iceblink	Iceblink
+aar	Ancient Armor
+utu	Wire Fleece
+Telling of Beads	Telling of Beads
+Wraithflight	Wraith Flight
+gem4	Perfect Gem
+Nosferatu's Coil	Nosferatu's Coil
+Death's Hand	Death's Hand
+Felloak	Felloak
+r11	Amn Rune
+Cleglaw's Pincers	Cleglaw's Pincers
+Tancred's Crowbill	Tancred's Crowbill
+Kerke's Sanctuary	Gerke's Sanctuary
+Witherstring	Witherstring
+nea	Hierophant Trophy
+Azurewrath	Azurewrath
+Trang-Oul's Avatar	Trang-Oul's Avatar
+Runeword42	Fortune
+tax	Throwing Axe
+pa9	Gilded Shield
+8cb	Double Bow
+Bul Katho's Wedding Band	Bul-Kathos' Wedding Band
+Pluckeye	Pluckeye
+Angelical Raiment	Angelic Raiment
+Runeword136	Sting
+9br	War Fork
+Cow King's Hide	Cow King's Hide
+glv	Glaive
+9wh	Battle Hammer
+6ls	Stalagmite
+Ironward	Astreon's Iron Ward
+tsc	Scroll of Town Portal
+Spellsteel	Spellsteel
+Dimoaks Hew	Dimoak's Hew
+ques	Quest
+7cl	Truncheon
+7b7	Champion Sword
+Deathbit	Deathbit
+Annihilus	Annihilus
+9sb	Shamshir
+7cr	Phase Blade
+7ga	Champion Axe
+7ss	Falcata
+Dracul's Grasp	Dracul's Grasp
+Hotspur	Hotspur
+Runeword39	Famine
+Runeword97	Patter
+ob3	Smoked Sphere
+Hellplague	Hellplague
+am6	Ashwood Bow
+McAuley's Paragon	Sander's Paragon
+cqv	Bolts
+glr	Flawless Ruby
+mau	Maul
+Arcanna's Tricks	Arcanna's Tricks
+Runeword47	Grief
+xlg	Demonhide Gloves
+McAuley's Superstition	Sander's Superstition
+uuc	Heater
+Aldur's Advance	Aldur's Advance
+ba4	Assault Helmet
+8ss	Jo Staff
+ult	Hellforge Plate
+M'avina's Battle Hymn	M'avina's Battle Hymn
+7fb	Colossus Sword
+bwn	Bone Wand
+belt	Belt
+dr8	Hunter's Guise
+bsw	Bastard Sword
+ba8	Rage Mask
+Warshrike	Warshrike
+Runeword115	Question
+stu	Studded Leather
+Tal Rasha's Adjudication	Tal Rasha's Adjudication
+The Gavel of Pain	The Gavel of Pain
+Runeword1	Ancients' Pledge
+Doombringer	Doombringer
+glg	Flawless Emerald
+Jalal's Mane	Jalal's Mane
+Jadetalon	Jade Talon
+Blackhand Key	Blackhand Key
+Giantmaimer	Giant Maimer
+Baranar's Star	Baranar's Star
+Runeword40	Flame
+mxb	Crossbow
+Husoldal Evo	Husoldal Evo
+miss	Missile Weapon
+torc	Torch
+Immortal King's Detail	Immortal King's Detail
+Krintizs Skewer	Skewer of Krintiz
+Firelizard's Talons	Firelizard's Talons
+Armor	Armor
+Kuko Shakaku	Kuko Shakaku
+helm	Helm
+Tarnhelm	Tarnhelm
+nee	Succubus Skull
+r18	Ko Rune
+Dark Clan Crusher	Dark Clan Crusher
+7wb	Wrist Sword
+7lw	Feral Claws
+Runeword71	Lawbringer
+Venomsward	Venom Ward
+Magnus' Skin	Magnus' Skin
+Runeword101	Peril
+Sigon's Complete Steel	Sigon's Complete Steel
+uhn	Boneweave
+gpw	Perfect Diamond
+Snowclash	Snowclash
+7wa	Berserker Axe
+pala	Paladin Item
+Larzuk's Champion	Larzuk's Champion
+Ethereal Edge	Ethereal Edge
+ktr	Katar
+xtp	Mage Plate
+9cr	Dimensional Blade
+7bk	Winged Knife
+Peasent Crown	Peasant Crown
+9fc	Tulwar
+xlb	Demonhide Boots
+ulm	Armet
+8cs	Cedar Staff
+The Reaper's Toll	The Reaper's Toll
+9bl	Stiletto
+axf	Hatchet Hands
+Death's Touch	Death's Touch
+Gloomstrap	Gloom's Trap
+zvb	Sharkskin Belt
+Cathan's Rule	Cathan's Rule
+spk	Spiked Shield
+Rixots Keen	Rixot's Keen
+baa	Slayer Guard
+Gimmershred	Gimmershred
+qui	Quilted Armor
+Hwanin's Refuge	Hwanin's Refuge
+xuc	Defender
+necr	Necromancer Item
+Fleshrender	Fleshrender
+Runeword16	Chaos
+Widowmaker	Widowmaker
+Runeword107	Praise
+Andariel's Visage	Andariel's Visage
+Arreat's Face	Arreat's Face
+The Cat's Eye	The Cat's Eye
+Bul-Kathos' Children	Bul-Kathos' Children
+uml	Luna
+9gd	Executioner Sword
+Bonehew	Bonehew
+Isenhart's Armory	Isenhart's Armory
+uit	Monarch
+xbow	Crossbow
+Ribcracker	Ribcracker
+mp1	Minor Mana Potion
+bax	Broad Axe
+gem0	Chipped Gem
+elix	Elixir
+6lw	Hydra Bow
+Runeword151	Unbending Will
+9b8	Hurlbat
+Runeword112	Prudence
+Arcanna's Sign	Arcanna's Sign
+wsd	War Sword
+xul	Chaos Armor
+char	Charm
+btl	Blade Talons
+qbr	Khalim's Brain
+KhalimFlail	Khalim's Flail
+hax	Hand Axe
+tsp	Throwing Spear
+Sigon's Shelter	Sigon's Shelter
+Sazabi's Ghost Liberator	Sazabi's Ghost Liberator
+Runeword164	Wings of Hope
+xhb	War Boots
+gpy	Perfect Topaz
+Milabrega's Robe	Milabrega's Robe
+Runeword66	Kingslayer
+xrg	Scutum
+9fl	Knout
+fed	Festering Essence of Destruction
+xhl	Basinet
+gts	Gothic Shield
+xvb	Sharkskin Boots
+hbt	Greaves
+The Rising Sun	The Rising Sun
+Vidala's Ambush	Vidala's Ambush
+sku	Skull
+Immortal King's Forge	Immortal King's Forge
+Guillaume's Face	Guillaume's Face
+The Hand of Broc	The Hand of Broc
+Raven Frost	Raven Frost
+Crushflange	Crushflange
+pelt	Pelt
+umc	Mithril Coil
+Constricting Ring	Constricting Ring
+Death's Guard	Death's Guard
+Blackoak Shield	Blackoak Shield
+Runeword158	War
+amu	Amulet
+umb	Boneweave Boots
+j34	A Jade Figurine
+Runeword122	Sanctuary
+urs	Great Hauberk
+Gutsiphon	Gut Siphon
+dr7	Griffon Headdress
+Isenhart's Lightbrand	Isenhart's Lightbrand
+Bloodletter	Bloodletter
+Runeword133	Stealth
+poti	Potion
+club	Club
+Stormshield	Stormshield
+hrn	Horn
+shie	Shield
+Leviathan	Leviathan
+7m7	Ogre Maul
+ba2	Fanged Helm
+thro	Thrown Weapon
+Flamebellow	Flamebellow
+Wormskull	Wormskull
+Runeword95	Passion
+Runeword77	Loyalty
+Ghoulhide	Ghoulhide
+misc	Miscellaneous
+r30	Ber Rune
+leg	Wirt's Leg
+gsg	Emerald
+Tancred's Skull	Tancred's Skull
+Ginther's Rift	Ginther's Rift
+amaz	Amazon Item
+Shadowkiller	Shadow Killer
+r27	Ohm Rune
+8sw	Rune Bow
+92a	Twin Axe
+9lw	Greater Claws
+ame	Matriarchal Pike
+Ravenlore	Ravenlore
+mele	Melee Weapon
+Langer Briser	Langer Briser
+lbl	Sash
+spr	Spear
+Rusthandle	Rusthandle
+Runeword52	Heaven's Will
+The Diggler	The Diggler
+rpot	Rejuv Potion
+Islestrike	Islestrike
+Runeword90	Night
+spt	Spetum
+Steelclash	Steelclash
+Civerb's Vestments	Civerb's Vestments
+Runeword167	Wonder
+r24	Ist Rune
+ob7	Crystalline Globe
+7di	Mithril Point
+Blinkbats Form	Blinkbat's Form
+tkf	Throwing Knife
+crn	Crown
+scp	Scepter
+bst	Battle Staff
+r01	El Rune
+abow	Amazon Bow
+SuperKhalimFlail	Khalim's Will
+The Generals Tan Do Li Ga	The General's Tan Do Li Ga
+Runeword148	Treachery
+glov	Gloves
+8ls	Quarterstaff
+Demonhorn's Edge	Demonhorn's Edge
+7ls	Cryptic Sword
+M'avina's True Sight	M'avina's True Sight
+9ts	Harpoon
+Runeword21	Deception
+Shaftstop	Shaftstop
+Bane Ash	Bane Ash
+Runeword124	Shadow
+Arcanna's Deathwand	Arcanna's Deathwand
+Laying of Hands	Laying of Hands
+xap	War Hat
+The Patriarch	The Patriarch
+ne2	Zombie Head
+xit	Dragon Shield
+Alma Negra	Alma Negra
+gold	Gold
+tpot	Missile Potion
+ywn	Yew Wand
+Natalya's Shadow	Natalya's Shadow
+Que-Hegan's Wisdon	Que-Hegan's Wisdom
+Runeword41	Fortitude
+wst	War Staff
+clw	Claws
+qhr	Khalim's Heart
+shld	Any Shield
+7fl	Scourge
+7qr	Scissors Suwayyah
+kri	Kris
+r14	Dol Rune
+ne5	Demon Head
+Cow King's Hoofs	Cow King's Hooves
+7wd	Mythical Sword
+Nagelring	Nagelring
+gfw	Flawed Diamond
+neb	Minion Skull
+Ripsaw	Ripsaw
+am9	Ceremonial Pike
+8mx	Siege Crossbow
+The Battlebranch	The Battlebranch
+7ar	Suwayyah
+gem2	Standard Gem
+Milabrega's Regalia	Milabrega's Regalia
+7wn	Polished Wand
+Vidala's Snare	Vidala's Snare
+gsw	Diamond
+gcg	Chipped Emerald
+9ma	Flanged Mace
+Runeword50	Hatred
+Runeword38	Faith
+Gull	Gull
+6cs	Elder Staff
+Baezil's Vortex	Baezil's Vortex
+cloa	Cloak
+Runeword132	Starlight
+Credendum	Credendum
+tbl	Heavy Belt
+Valkiry Wing	Valkyrie Wing
+Umbral Disk	Umbral Disk
+7ta	Flying Axe
+Darksight Helm	Darksight Helm
+Skullcollector	Skull Collector
+oba	Swirling Crystal
+Runeword120	Rhyme
+Runeword146	Time
+box	Horadric Cube
+pa5	Crown Shield
+ztb	Battle Belt
+xtg	Battle Gauntlets
+Runeword58	Hunger
+Sureshrill Frost	Sureshrill Frost
+Dragonscale	Dragonscale
+utp	Archon Plate
+Horadric Staff	Horadric Staff
+Blackleach Blade	Blackleach Blade
+Runeword85	Morning
+Runeword105	Pillar of Faith
+jew	Jewel
+swor	Sword
+The Iron Jang Bong	The Iron Jang Bong
+7tw	Runic Talons
+Guardian Naga	Guardian Naga
+Spike Thorn	Spike Thorn
+ful	Full Plate Mail
+ci3	Diadem
+Eaglehorn	Eaglehorn
+xhn	Mesh Armor
+Trang-Oul's Guise	Trang-Oul's Guise
+9cl	Cudgel
+gsr	Ruby
+Razortine	Razortine
+Waterwalk	Waterwalk
+ltp	Light Plate
+wrb	Wrist Blade
+Kira's Guardian	Kira's Guardian
+head	Voodoo Heads
+The Grandfather	The Grandfather
+tch	Torch
+ama	Ceremonial Javelin
+Moonfall	Moonfall
+dre	Sky Spirit
+Runeword73	Lightning
+crs	Crystal Sword
+Runeword154	Venom
+tr1	Horadric Scroll
+Deaths's Web	Death's Web
+ice	Keep it to thaw Anya}Malah's Potion
+Iratha's Cord	Iratha's Cord
+Cow King's Leathers	Cow King's Leathers
+dr5	Spirit Mask
+uld	Kraken Shell
+Orphan's Call	Orphan's Call
+xts	Ancient Shield
+Tomb Reaver	Tomb Reaver
+9ta	Francisca
+8lx	Arbalest
+staf	Staff
+7gd	Colossus Blade
+Runemaster	Rune Master
+vbt	Heavy Boots
+ssp	Short Spear
+uvg	Vampirebone Gloves
+pk2	Key of Hate
+9gi	Ancient Axe
+Cleglaw's Tooth	Cleglaw's Tooth
+The Reedeemer	The Redeemer
+Runeword4	Beast
+The Humongous	Humongous
+kit	Kite Shield
+Manald Heal	Manald Heal
+utb	Mirrored Boots
+r06	Ith Rune
+Stoneraven	Stoneraven
+Chromatic Ire	Chromatic Ire
+Runeword17	Crescent Moon
+xld	Sharktooth Armor
+uth	Lacquered Plate
+Bloodraven's Charge	Blood Raven's Charge
+Hawkmail	Hawkmail
+cap	Cap
+dr3	Antlers
+McAuley's Taboo	Sander's Taboo
+Cathan's Seal	Cathan's Seal
+Leadcrow	Leadcrow
+Nord's Tenderizer	Nord's Tenderizer
+gsy	Topaz
+Runeword139	Strength
+Runeword68	Knowledge
+xyz	Right Click to permanently add 20 to Life}Potion of Life
+hp4	Greater Healing Potion
+Arm of King Leoric	Arm of King Leoric
+Mindrend	Skull Splitter
+ne7	Fetish Trophy
+Runeword43	Friendship
+scm	Scimitar
+sol	Soul
+bet	Burning Essence of Terror
+Trang-Oul's Girth	Trang-Oul's Girth
+am2	Reflex Bow
+Stormguild	Stormguild
+Runeword140	Tempest
+Cliffkiller	Cliffkiller
+hp1	Minor Healing Potion
+uhm	Spired Helm
+scha	Small Charm
+bac	Fury Visor
+Sazabi's Grand Tribute	Sazabi's Grand Tribute
+amc	Grand Matron Bow
+geme	Emerald
+Gorerider	Gore Rider
+Milabrega's Orb	Milabrega's Orb
+Titan's Revenge	Titan's Revenge
+Crainte Vomir	Crainte Vomir
+Earthshifter	Earth Shifter
+6mx	Gorgon Crossbow
+6bs	Shillelagh
+ba9	Savage Helmet
+7dg	Bone Knife
+Runeword93	Oblivion
+Isenhart's Parry	Isenhart's Parry
+Runeword75	Lore
+Sparking Mail	Sparking Mail
+Coif of Glory	Coif of Glory
+bsd	Broad Sword
+ush	Troll Nest
+Sigon's Gage	Sigon's Gage
+Wolfhowl	Wolfhowl
+Vidala's Barb	Vidala's Barb
+9ax	Cleaver
+r12	Sol Rune
+Kinemils Awl	Kinemil's Awl
+bab	Carnage Helm
+Coldkill	Coldkill
+jave	Javelin
+6hb	Blade Bow
+cst	Gnarled Staff
+gfy	Flawed Topaz
+qf1	Khalim's Flail
+Arctic Mitts	Arctic Mitts
+Lycander's Flank	Lycander's Flank
+Pompe's Wrath	Pompeii's Wrath
+ob5	Jared's Stone
+9st	Yari
+Runeword61	Innocence
+9sm	Cutlass
+Lance Guard	Lance Guard
+Wilhelm's Pride	Wilhelm's Pride
+6lx	Pellet Bow
+Hsarus' Iron Stay	Hsarus' Iron Stay
+Angelic Halo	Angelic Halo
+Vidala's Fetlock	Vidala's Fetlock
+7gm	Thunder Maul
+Runeword129	Sorrow
+Nethercrow	Nethercrow
+Runeword2	Armageddon
+xcl	Tigulated Mail
+Griswold's Honor	Griswold's Honor
+7gw	Unearthed Wand
+Treads of Cthon	Treads of Cthon
+Sigon's Visor	Sigon's Visor
+Sazabi's Mental Sheath	Sazabi's Mental Sheath
+Mang Song's Lesson	Mang Song's Lesson
+play	Player Body Part
+skl	Flawless Skull
+lcha	Large Charm
+Aldur's Stony Gaze	Aldur's Stony Gaze
+Runeword119	Red
+Runeword35	Envy
+Berserker's Headgear	Berserker's Headgear
+The Fetid Sprinkler	The Fetid Sprinkler
+9ar	Quhab
+lbw	Long Bow

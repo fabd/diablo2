@@ -1,0 +1,4 @@
+# skip OpenOffice Calc versions of the tabular data
+.*
+!.gitignore
+*.ods

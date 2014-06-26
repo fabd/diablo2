@@ -1,0 +1,171 @@
+/**
+ * Runewizard - Stylesheet
+ *
+ * @author   Denis Fabrice
+ * @version  1.0 2008/07/10
+ * @license  Creative Commons Attribution-Noncommercial-Share Alike
+ *           http://creativecommons.org/licenses/by-nc-sa/2.0/be/
+ *           See additional conditions at footer of the html page.
+ */
+
+/*---------------------------*/
+/* Base rules & reset */
+/*---------------------------*/
+
+body { 
+	font-size:12px; line-height:1.2em; font-family:Verdana, Arial, sans-serif; 
+	margin:0; padding:0; 
+	background:#222;
+	color:#afafaf;
+}
+
+p, pre, blockquote, address, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, form, label, fieldset { margin:0; padding:0; }
+ul, ol, li { list-style:none; }
+input, select, textarea { font:11px Arial, sans-serif; color:#333; line-height:1.2em; }
+table, caption, td, th { margin:0; padding:0; font-size:11px; line-height:1.2em; font-weight:normal; }
+img { display:inline; }
+
+/* cross-browser clearing of floats (no extra space in IE) */
+div.clear { clear:both; overflow:hidden; height:0; }
+
+
+/*---------------------------*/
+/* Base styles */
+/*---------------------------*/
+
+/* links */
+a 		{ text-decoration:underline; color:#bdf; }
+a:hover { text-decoration:underline; }
+
+/* images */
+a img 	{ border:0; vertical-align:middle; }
+
+/* type */
+p { font-size:11px; line-height:1.2em; margin:0 0 1em; }
+
+/* headings */
+h1, h2, h3, h4, h5 { font-weight:bold; line-height:1.2em; margin:0 0 1em; }
+h1 { font-size:35px; font-family:Georgia; font-weight:normal; color:#cfc; margin:0 0 4px; }
+h2 { font-size:15px; font-family:Georgia; color:#cfc; font-weight:normal; margin:0 0 0.8em; }
+
+
+/*---------------------------*/
+/* Layout */
+/*---------------------------*/
+
+#body { margin:0 auto; width:776px; padding:10px 10px; background:#000; }
+
+.col-sec { float:left; width:156px; }
+.col-pri { float:left; width:600px; padding:0 0 150px 20px; }
+
+/* HEADER */
+
+#header { position:relative; width:100%; padding:0; border-bottom:1px solid #514c48; margin:0 0 20px; }
+#header #JsHelpBody { background:#303030; padding:10px; font-size:11px; line-height:1.3em; color:#928a70; }
+#header #JsHelpOpen { display:block; position:absolute; right:0; top:0px; color:#2e6fb1; font-size:11px; }
+#header #JsHelpOpen:hover { color:#448dd7; }
+
+#JsHelpBody h3 { margin:0 0 4px; color:#44aa44; font-size:11px; font-weight:normal; }
+#JsHelpBody a { color:#469bf1; }
+
+
+/* FOOTER */
+#footer {
+	width:100%; position:relative;
+	margin:64px 0 0; padding:14px 0 20px;
+	border-top:1px solid #29291d;
+}
+#footer p { width:650px; font:11px/1.2em Arial, sans-serif; color:#575242; margin:0; }
+#footer p a { color:#5b7a99; text-decoration:none; }
+#footer a.cc-icon { position:absolute; right:0; top:19px; }
+
+
+
+/* BODY */
+
+/* */
+.col-sec { }
+.col-sec .runes { position:relative; }
+.runes ul { float:left; width:50px; padding:0 0 0 0;  }
+.runes ul li { margin:0; font-size:11px; width:100%; height:34px; }
+.runes li a {
+	display:block;
+	width:100%; height:34px; padding:0;
+	font-size:13px; line-height:34px; text-align:center; text-decoration:none; outline:none;
+	font-variant:small-caps;
+}
+.runes li a:hover { }
+ /* */
+.runes li a.have     { color:#fff; background:url(../img/rune-bg2.gif) no-repeat 50% 0; }
+.runes li a.have_not { color:#666; background:url(../img/rune-bg2.gif) no-repeat 50% -34px; }
+ /* */
+.runes li a:hover.have     { color:#fff; }
+.runes li a:hover.have_not { color:#fff; xbackground:url(../img/rune-bg2.gif) no-repeat 50% 0; }
+
+/* actions */
+.runes-misc { position:absolute; right:16px; top:3px; }
+.runes-misc a#JsClearRunes {
+	color:#884444; text-decoration:none; font:10px/1em Verdana,sans-serif;
+	padding:3px 0; padding-left:14px; background:url(../img/icon-clear-selection.gif) no-repeat 0 60%;
+}
+.runes-misc a#JsClearRunes:hover { color:#b14b4b; }
+
+
+/* sortable table styles */
+.sortable th a { outline:none; font-weight:normal; }
+.sortable th a.sortup,
+.sortable th a.sortdown { font-weight:bold; color:#bdf; padding-right:10px; background:url(../img/icon-sort-arrow.gif) no-repeat 100% 4px; }
+.sortable th a.sortup   { background-position:100% -12px; }
+.sortable th a.sortdown { }
+
+/* */
+.runewords { width:100%; }
+.runewords th, .runewords td { padding:4px 5px; border-bottom:1px solid #29291d; text-align:center; }
+.runewords .aleft { text-align:left; }
+ /* column heads */
+.runewords thead th { background:#444;border-right:1px solid #000; }
+.runewords thead th a { text-decoration:none; color:#879fb8; }
+ /* row heads */
+.runewords tbody th { width:140px; text-align:left; }
+.runewords tbody th a { color:#cfc; text-decoration:none; }
+.runewords tbody th a:hover { color:#c7cdac; text-decoration:none; }
+.runewords tbody th a.icon-ladder { padding-right:16px; background:url(../img/icon-ladder.gif) no-repeat 100% 50%; }
+
+ /* special columns */
+.runewords th.cmpl, .runewords td.cmpl { display:none; }
+
+ /* cells */
+.runewords td.rune { width:40px; text-align:center; color:#ccc; }
+.runewords td.type { font-size:10px; }
+.runewords td.type span.small { font-size:10px; display:block; }
+ 
+.runewords td.y { color:#4a4; }
+.runewords td.n { color:#844; }
+
+ /* completed runeword styles */
+.runewords .complete th,
+.runewords .complete td { background:#20100a; }
+.runewords .complete th a { color:#928a70; }
+.runewords .complete td.type { color:#fff; }
+ /* incomplete runeword styles */
+.runewords .incomplete th a { color:#575242; } 
+.runewords .incomplete td.type { color:#888; }
+
+
+/* RUNEWORD DESCRIPTION LAYER */
+
+#JsLayer {
+	display:none; /* defaults hidden on page load */
+	width:350px; /* the width is fixed */
+	height:auto; /* the height adapts to the length of the description */
+	z-index:100;
+	background:#000;
+	border:1px solid #937c6e;
+	padding:12px 0 14px;
+	text-align:center; 
+	color:#48ac3f;
+	font:12px/1.2em Arial, sans-serif;
+}
+#JsLayer #JsLayerTitle { color:#928a70; font-size:14px; line-height:1em; margin:0; }
+#JsLayer #JsLayerType { color:#fff; font-size:11px; margin:2px 0 4px; }
+#JsLayer #JsLayerContents { font-variant:small-caps; } /* Diablo 2 style font! ^_^ */

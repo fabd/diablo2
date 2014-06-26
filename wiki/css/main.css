@@ -1,0 +1,52 @@
+body {
+	font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt;
+	color: #afafaf;
+	background-color: #000000;
+	margin-left: 20;
+	margin-right: 40;
+	margin-top: 10;
+	margin-bottom: 50;
+}
+
+b			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; font-weight: bold; font-style: normal; color: #cfcfcf; }
+p			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #afafaf; }
+span		{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; }
+blockquote	{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #afafaf; }
+em			{ font-family: Arial,Helvetica,Sans-Serif; color: #ffffff; font-weight: bold; font-style: normal; font-size: 10pt; }
+li			{ font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; line-height: 110% }
+small		{ font-family: Arial,Helvetica,Sans-Serif; font-size: 8pt; font-weight: normal; font-style: normal; }
+pre 		{ font-family: courier,monospace; color: #9e9e9e; font-size: 10pt; }
+
+a			  { font-family: Arial,Helvetica,Sans-Serif; font-weight: bold; text-decoration: none; }
+a:link		{ color: #928a70; }
+a:visited	{ color: #706850; }
+a:active	{ color: #ffffff; }
+a:hover		{ color: #ffffff; }
+
+a.sma			{ font-family: Arial,Helvetica,Sans-Serif; font-weight: normal; font-size: 8pt; text-decoration:underline; }
+a.sma:link		{ color: #B4AC92; }
+a.sma:visited	{ color: #928A72; }
+a.sma:active	{ color: #ffffff; }
+a.sma:hover		{ color: #ffffff; }
+
+table	    { font-family: Arial,Helvetica,Sans-Serif; font-size: 10pt; color: #cfcfaf; }
+tr.head 	{ background-color: #400000; color: #c0c080; font-weight: normal; line-height: 10pt; }
+tr 			{ background-color: #200000; line-height: 11pt; }
+
+.bold 		{ font-weight: bold; }
+.resetbg 	{ background-color: black; color: #afafaf; font-weight: normal; line-height: normal; }
+
+/* Item Bonuses */
+
+table.tbl-item-prop { width:640px; }
+
+.set { color:#00c400; font-weight:bold; }
+.uni { color:#928a70; font-weight:bold; }
+.run { color:#9658b0; font-weight:bold; }
+.gem { color:#d7621c; font-weight:bold; }
+
+.bo1 {color:#4850B8;}
+.gld{color:#908858; font-weight:bold;}
+table {color: #afafaf;}
+tr {background-color: #000000; line-height: 10pt;}
+
