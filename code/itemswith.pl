@@ -381,7 +381,6 @@ sub items_with_prop {
   DD::bold($prop_full);
   print " [ <a class=\"sma\" href=\"#top\">top</a> ]<br>\n";
 
-  DD::blockquote();
 #  DD::underline("Items with '$prop_full' :");
 #  print "<br>\n";
 
@@ -709,7 +708,7 @@ sub items_with_prop {
   my @sorted = sort itemsort @itemz;
 
 #  DD::table(0,0,1);
-  print "<table width=640><colgroup><col width=340><col width=300></colgroup>\n";
+  print '<table class="itb">'."\n";
 
   foreach (@sorted) {
     my @cols = DD::GetColData($_);
@@ -790,12 +789,11 @@ sub items_with_prop {
     
     my $style = $ITEMGROUP_TO_STR{$group};
 #    print("<span class=\"$style\">$name</span> $type <span class=\"bo1\">$minmax</span>$ladder<br>\n");
-    print("<tr><td><span class=\"$style\">$name</span> $type$ladder</td><td><span class=\"bo1\">$minmax</span></td></tr>\n");
+    print("<tr><th><span class=\"$style\">$name</span> $type$ladder</th><td><span class=\"bo1\">$minmax</span></td></tr>\n");
 
   }
   DD::end_table();
 
-  DD::end_blockquote();
   print "\n";
 }
 
