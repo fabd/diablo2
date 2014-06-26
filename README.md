@@ -25,6 +25,16 @@ In early 2014 I started playing the game again. I found an old backup and though
 It's amazing to think that Diablo 2 patch 1.10 came out 10 years ago! The game is still very much fun to play and moreso these days as you can share those experiences on Twitch :)
 
 
+COPYRIGHT NOTICE regarding the Diablo 2 DATA FILES
+==================================================
+
+Concerning: all *.txt files included in `/d2_113_data/`
+
+Please note that the data files extracted from the game [Diablo 2](http://eu.blizzard.com/en-gb/games/d2/) are included in this repository only for convenience and solely for the purpose of the creation of Diablo 2 game guides.
+
+__These datafiles remain the intellectual property of _Blizzard Entertainment__.
+
+
 Thanks
 ======
 
