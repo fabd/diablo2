@@ -1,3 +1,4 @@
+/* DISCLAIMER: much of this site was originally written between 2003-2008 ;) */
 body {
   margin:0; padding:0;
   background:#000000;
@@ -11,6 +12,7 @@ table, caption, td, th { margin:0; padding:0; font-size:12px; line-height:1.6em;
 img { display:inline; }
 
 /* base spacing */
+section { padding:0; margin:0 0 2em; }
 .article { width:90%; }
 p, ul { margin:0 0 1em; }
 
@@ -80,7 +82,7 @@ em.v { color:#8c8; }  /* patch version */
 #sidebr li a:visited { color:#928A72; }
 #sidebr li a:active	 { color:#fff; }
 #sidebr li a:hover	 { color:#fff; }
-#sidebr li a.active  { }
+#sidebr li a.active  { color:#fff; }
 
 #main { margin:0 20px 0 164px; padding:15px 0 0 0; }
 
@@ -89,9 +91,6 @@ em.v { color:#8c8; }  /* patch version */
 div.clear { clear:both; overflow:hidden; height:0; }
 div.col     { float:left; margin:0 20px 0 0; }
 div.col-50  { width:45%; } 
-
-/* license info */
-#license p a { color:#5b7a99; text-decoration:none; }
 
 /* Item Bonuses */
 table.itb { margin:10px 40px 20px; }
