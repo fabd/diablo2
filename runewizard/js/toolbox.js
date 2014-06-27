@@ -1,3 +1,5 @@
+/* WARNING! This stuff was written in 2008  =)  */
+
 /* miscellaneous useful Javascript functions for event management, dom traversal, cookies... */
 
 /* following subset of functions from Prototype JavaScript framework, version 1.5.1 (http://www.prototypejs.org/) */

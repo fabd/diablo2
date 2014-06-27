@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% if page.title %}{{ page.title }}{% else %}The Tankazon Resource{% endif %}</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="stylesheet" href="/css/main.css" type="text/css">
+{% if page.url == "/runewizard/index.html" %}
+	<script type="text/javascript" src="/runewizard/js/toolbox.js"></script>
+	<script type="text/javascript" src="/runewizard/js/sorttable.js"></script>
+	<script type="text/javascript" src="/runewizard/js/main.js"></script>
+	<link rel="stylesheet" type="text/css" href="/runewizard/css/main.css" media="all" />
+	<link rel="Shortcut Icon" type="image/ico" href="favicon.ico" />
+{% endif %}
+</head>
+<body>
+
+  <div id="header">
+    <h1><a href="/"><img src="/img/the-tankazon-resource.png" width="309" height="79" alt="The Tankazon Resource" /></a></h1>
+    <p class="sub">Game guide for Diablo II Lords of Destruction <span>v1.13</span></p>
+  </div>
+
+  <div id="main-container">
+    <div id="sidebr">
+{% include menu.html %}
+    </div>
+
+    <div id="main">
+{{ content }}
+    </div>
+  </div>
+
+</body>
+</html>

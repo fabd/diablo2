@@ -1,0 +1,10 @@
+# Jekyll Configuration
+#source: 
+#destination: _site
+
+exclude:
+- archive
+- code
+- LICENSE
+- README.md
+

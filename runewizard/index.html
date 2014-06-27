@@ -1,14 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-	<title>Runewizard for Diablo II LoD 1.13</title>
-	<script type="text/javascript" src="js/toolbox.js"></script>
-	<script type="text/javascript" src="js/sorttable.js"></script>
-	<script type="text/javascript" src="js/main.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/main.css" media="all" />
-	<link rel="Shortcut Icon" type="image/ico" href="favicon.ico" />
-</head>
-<body>
+---
+layout: default
+title: Runewizard for Diablo II LoD 1.13
+---
 
 <div id="JsLayer">
 	<h3 id="JsLayerTitle">&nbsp;</h3>
@@ -16,13 +9,9 @@
 	<div id="JsLayerContents">&nbsp;</div>
 </div>
 
-<div id="body">
+<div id="rwbody">
     
-	<div id="header">
-		<h1>Runewizard</h1>
-		
-		<a href="#" id="JsHelpOpen">Help</a>
-
+	<div id="rwhead">
 		<div id="JsHelpBody" style="display:none">
 <h3>What is it?</h3>
 The Runewizard lets you check easily what <a href="http://classic.battle.net/diablo2exp/items/runewords.shtml">runewords</a> you can make with the <a href="http://classic.battle.net/diablo2exp/items/runes.shtml">runes</a> you have on a Diablo II character.<br />
@@ -44,11 +33,10 @@ The small <img src="img/icon-ladder.gif" width="11" height="11" alt="" /> icon i
 
 <a href="#" id="JsHelpClose" class="close-help">Close help</a>
 		</div>
-
 	</div>
 
 	<div class="col-sec">
-		<div class="runes">
+		<div id="rwrunes" class="JsRunes">
 			<h2>Runes</h2>
 			
 			<div class="runes-misc">
@@ -98,7 +86,9 @@ The small <img src="img/icon-ladder.gif" width="11" height="11" alt="" /> icon i
 	</div>
 
 	<div class="col-pri">
+		<a href="#" id="JsHelpOpen">Help</a>
 		<h2>Runewords<span id="runewords-count"></span></h2>
+    <div class="clear"></div>
 
 		<table class="runewords sortable" cellspacing="0">
 		<thead>
@@ -130,15 +120,7 @@ The small <img src="img/icon-ladder.gif" width="11" height="11" alt="" /> icon i
 
 	<div class="clear"></div>
 
-	<div id="footer">
-		<p><span xmlns:dc="http://purl.org/dc/elements/1.1/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dc:title" rel="dc:type">Runewizard</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Denis Fabrice</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/be/">Creative Commons Attribution-Noncommercial-Share Alike License</a>.</p>
-		<p class="add"><u>Additional conditions</u>: this application in its original or derived form can not be redistributed, hosted,
-			or included	in any way on<br />
-			web sites selling Diablo2 items (including affiliated or associated websites),
-			or web sites offering downloads of Diablo 2 hacks.</p>
-		<a class="cc-icon" rel="license" href="http://creativecommons.org/licenses/by-nc-sa/2.0/be/"><img alt="Creative Commons License" style="border-width:0" src="img/by-nc-sa-88x31.png"/></a>
-	</div>
-</div><!-- /body -->
+</div><!-- /rwbody -->
 
 
 <!--
@@ -1194,5 +1176,3 @@ The small <img src="img/icon-ladder.gif" width="11" height="11" alt="" /> icon i
 	50% Extra Gold From Monsters
 </div>
 
-</body>
-</html>

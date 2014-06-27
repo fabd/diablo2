@@ -244,7 +244,7 @@ var App =
 	initEvents:function()
 	{
 		// runes : add event handler and map links to ids
-		var runesDiv = dom.getElementsByClassName(document,'div','runes')[0];
+		var runesDiv = dom.getElementsByClassName(document,'div','JsRunes')[0];
 		var links = runesDiv.getElementsByTagName('a');
 		for (i=0; i<links.length; i++)
 		{
@@ -327,7 +327,7 @@ var App =
 			{
 				var layerPos = dom.findPosition(elem);
 				layerPos[0] += 50;
-				layerPos[1] += elem.offsetHeight+1;  // dont overlap the link to keep mouse events simple
+				layerPos[1] += elem.offsetHeight + 1 -117;  // dont overlap the link to keep mouse events simple
 				
 				this.setLayerContents(descrDivId);
 

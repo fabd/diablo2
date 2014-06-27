@@ -1,3 +1,10 @@
-# ignore my old backup being converted to a Github repo
 !.gitignore
+
+# ignore my old backup being converted to a Github repo
 archive
+
+# local todo list
+_todos.txt
+
+# Jekyll generated site
+/_site
