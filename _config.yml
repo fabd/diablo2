@@ -1,6 +1,7 @@
 # Jekyll Configuration
 #source: 
 #destination: _site
+baseurl: /diablo2
 
 exclude:
 - archive
