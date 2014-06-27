@@ -3,6 +3,8 @@
 #destination: _site
 baseurl: /diablo2
 
+markdown: kramdown
+
 exclude:
 - archive
 - code
