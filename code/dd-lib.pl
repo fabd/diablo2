@@ -1,6 +1,6 @@
 #############################################################################
 #
-# Simple Helpers for Diablo II Excel Data Extracting
+#  Simple Helpers for Diablo II Excel Data Extracting.
 #
 #############################################################################
 
@@ -96,6 +96,22 @@ $EXT_HTML = '.html';
   'wand' => 'Wand',
   'xbow' => 'Crossbow'
 );
+
+# Command Line Options
+my $opt_verbose = '1';
+
+
+#---------------------------------------------------------------------------
+# Print message to STDERR (with a newline character) if verbose flag is set.
+# 
+#   verbose("debug messsage sent to STDERR ...");
+#---------------------------------------------------------------------------
+sub verbose
+{
+  my ($msg) = @_;
+  print STDERR "$msg\n" if $opt_verbose;
+}
+
 
 
 #---------------------------------------------------------------------------
