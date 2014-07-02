@@ -30,13 +30,15 @@ use strict;
 #	Specify excel file and the column with the string key, all the corresponding
 #	key/value pairs will be output in the lookup file.
 my %lookup_files = (
-	'Armor'       => 'code',
-	'Misc'        => 'code',
-	'Runes'       => 'Name',
-	'SetItems'    => 'index',
-	'Sets'        => 'index',
-	'UniqueItems' => 'index',
-	'Weapons'     => 'namestr'
+	'Armor'        => 'code',
+  'Levels'       => 'LevelName',
+	'Misc'         => 'code',
+	'Runes'        => 'Name',
+	'SetItems'     => 'index',
+	'Sets'         => 'index',
+  'SuperUniques' => 'Name',
+	'UniqueItems'  => 'index',
+	'Weapons'      => 'namestr'
 );
 
 my %mergedstr;
