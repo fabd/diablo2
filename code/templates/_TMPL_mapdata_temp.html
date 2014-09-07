@@ -1,0 +1,86 @@
+<html>
+<head>
+<title>Diablo 2 Map Data</title>
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+<style type="text/css">
+<!-- 
+	tr.head { background-color: #400000; color: #c0c080; font-weight: normal; }
+	tr { background-color: #200000; line-height: 10pt; }
+-->	
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+var aMonData1 = [
+["#mondata1",1,10]
+];
+var aMonData2 = [
+["#mondata2",3,30,4,40]
+];
+function makeTable(aMon) {
+	for (i=0; i < aMon.length ; i++) {
+		var mlvl = aMon[i][1];
+		var xp = aMon[i][2];
+		var sHTML = '<tr><td>'+aMon[i][0]+'</td><td>'+mlvl+'</td><td>'+xp+'</td></tr>\n'
+		document.write(sHTML);
+	} 
+}
+function makeTable2(aMon) {
+	for (i=0; i < aMon.length ; i++) {
+		var mlvlN = aMon[i][1];
+		var xpN = aMon[i][2];
+		var mlvlH = aMon[i][3];
+		var xpH = aMon[i][4];
+		var sHTML = '<tr><td>'+aMon[i][0]+'</td><td>'+mlvlN+'</td><td>'+xpN+'</td><td>'+
+					mlvlH+'</td><td>'+xpH+'</td></tr>\n';
+		document.write(sHTML);
+	} 
+}
+-->
+</script>
+</head>
+
+<body>
+
+<b>#mapname</b><br>
+
+<p>
+<b>Monster List : Normal</b><br>
+<br>
+<table cellpadding=4 cellspacing=2 border=0>
+<colgroup>
+	<col align="left">
+	<col align="middle">
+	<col align="middle">
+</colgroup>
+<tr class="head"><td rowspan=2>Monster</td><td colspan=2>Normal</td></tr>
+<tr class="head"><td>Level</td><td>Experience</td></tr>
+<script language="JavaScript" type="text/javascript">
+<!--
+	makeTable(aMonData1);
+-->
+</script>
+</table>
+
+<p>
+<b>Monster List : Nightmare & Hell</b><br>
+<br>
+<table cellpadding=4 cellspacing=2 border=0>
+<colgroup>
+	<col align="left">
+	<col align="middle">
+	<col align="middle">
+	<col align="middle">
+	<col align="middle">
+</colgroup>
+<tr class="head"><td rowspan=2>Monster</td><td colspan=2>Nightmare</td><td colspan=2>Hell</td></tr>
+<tr class="head"><td>Level</td><td>Experience</td><td>Level</td><td>Experience</td></tr>
+<script language="JavaScript" type="text/javascript">
+<!--
+	makeTable2(aMonData2);
+-->
+</script>
+</table>
+
+</body>
+
+</html>

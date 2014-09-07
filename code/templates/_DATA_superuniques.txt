@@ -1,0 +1,66 @@
+Name	Monster Type	Normal	Nightmare	Hell	Location	-	$LevelName	$Boss	*eol
+##Act I									0
+Corpsefire							Den of Evil		0
+Bishibosh							Cold Plains		0
+Bonebreak							Crypt		0
+bloodraven	Corrupt Rogue Archer						Burial Grounds		0
+Coldcrow							Cave Level 1		0
+Rakanishu							Stony Field		0
+Treehead WoodFist							Dark Wood		0
+Griswold	Undead						Tristram		0
+The Countess							Tower Cellar Level 5		0
+The Smith							Barracks		0
+Pitspawn Fouldog							Jail Level 2		0
+Boneash							Cathedral		0
+andariel	Act Boss						Catacombs Level 4	1	0
+The Cow King							Moo Moo Farm		0
+##Act II									0
+Radament	Greater Mummy						Sewers Level 2		0
+Leatherarm							Stony Tomb Level 2		0
+Bloodwitch the Wild							Halls of the Dead Level 3		0
+Beetleburst							Far Oasis		0
+Coldworm the Burrower							Maggot Lair Level 3		0
+Dark Elder							Lost City		0
+Fangskin							Claw Viper Temple Level 2		0
+Fire Eye							Palace Cellar Level 3		0
+The Summoner	Special						Arcane Sanctuary		0
+Ancient Kaa the Soulless					False Tomb		Tal Rasha's Tomb		0
+duriel	Act Boss						Duriel's Lair	1	0
+##Act III									0
+Web Mage the Burning							Spider Cavern		0
+Witch Doctor Endugu							Flayer Dungeon Level 3		0
+Stormtree					Entering Lower Kurast		Flayer Jungle		0
+Sarina the Battlemaid					Kurast Bazaar		Ruined Temple		0
+Icehawk Riftwing							Sewers Level 1		0
+Ismail Vilehand							Travincal		0
+Geleb Flamefinger							Travincal		0
+Toorc Icefist							Travincal		0
+Bremm Sparkfist							Durance of Hate Level 3		0
+Wyand Voidfinger							Durance of Hate Level 3		0
+Maffer Dragonhand							Durance of Hate Level 3		0
+mephisto	Act Boss						Durance of Hate Level 3	1	0
+##Act IV									0
+izual	Special						Plains of Despair		0
+hephasto	Demon						River of Flame		0
+Infector of Souls							Chaos Sanctum		0
+Lord De Seis							Chaos Sanctum		0
+Grand Vizier of Chaos							Chaos Sanctum		0
+diablo	Act Boss						Chaos Sanctum	1	0
+##Act V									0
+Dac Farren							Bloody Foothills		0
+Siege Boss							Bloody Foothills		0
+Megaflow Rectifier							Rigid Highlands		0
+Threash Socket							Arreat Plateau		0
+Eyeback Unleashed							Rigid Highlands		0
+Sharp Tooth Sayer							Rigid Highlands		0
+Frozenstein						Frozen River	Cellar of Pity		0
+Bonesaw Breaker						Glacial Trail	Crystalized Cavern Level 2		0
+Snapchip Shatter						Icy Cellar	Glacial Caves Level 2		0
+Pindleskin							Nihlathaks Temple		0
+Nihlathak							Halls of Vaught		0
+Baal Subject 1							Throne of Destruction		0
+Baal Subject 2							Throne of Destruction		0
+Baal Subject 3							Throne of Destruction		0
+Baal Subject 4							Throne of Destruction		0
+Baal Subject 5							Throne of Destruction		0
+baalcrab	Act Boss						The Worldstone Chamber	1	0

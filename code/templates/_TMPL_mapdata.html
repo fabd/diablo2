@@ -1,0 +1,119 @@
+<html>
+<head>
+<title>Diablo 2 Map Data</title>
+	<link rel="stylesheet" type="text/css" href="../css/main.css">
+<style type="text/css">
+<!-- 
+	tr.head { background-color: #400000; color: #c0c080; font-weight: normal; }
+	tr { background-color: #200000; line-height: 10pt; }
+	.red {color:red; }
+-->	
+</style>
+<script language="JavaScript" type="text/javascript">
+<!--
+var aMonData1 = [
+["#mondata1",1,10]
+];
+var aMonData2 = [
+["#mondata2",3,30,4,40]
+];
+var XPDec = [
+95.31,90.63,85.94,81.25,76.56,71.88,67.19,62.50,57.81,53.13,
+48.44,43.75,39.06,34.38,26.69,25.00,18.75,14.06,10.55, 7.91,
+ 5.96, 4.49, 3.42, 2.54, 1.95, 1.46, 1.07, 0.78, 0.59, 0.49];
+function computeExpPenalty (clvl,mlvl) {
+	var aX = [  5, 38, 92,174,225,256,256,256,256,256,256,
+			  256,256,256,256,256,207,159,110, 61, 13];
+	var x = (clvl-mlvl);
+	if (x <-10) x = -10;
+	if (x > 10) x = 10;
+	return aX[x+10];
+}
+function makeTable(aMon) {
+	var clvl = opener ? opener.document.clvlform.dex.value : 1;
+	for (i=0; i < aMon.length ; i++) {
+		var mlvl = aMon[i][1];
+		var xp = (aMon[i][2] * computeExpPenalty(clvl,mlvl)) >> 8;
+		if (clvl>=70 && clvl<100) xp = Math.floor (xp * XPDec[clvl-70] / 100);
+		var sHTML = '<tr><td>'+aMon[i][0]+'</td><td>'+mlvl+'</td><td>'+xp+'</td></tr>\n'
+		document.write(sHTML);
+	} 
+}
+function makeTable2(aMon) {
+	var clvl = opener ? opener.document.clvlform.dex.value : 1;
+	for (i=0; i < aMon.length ; i++) {
+		var mlvlN = aMon[i][1];
+		var xpN = (aMon[i][2] * computeExpPenalty(clvl,mlvlN)) >> 8;
+		if (clvl>=70 && clvl<100) xpN = Math.floor (xpN * XPDec[clvl-70] / 100);
+		var mlvlH = aMon[i][3];
+		var xpH = (aMon[i][4] * computeExpPenalty(clvl,mlvlH)) >> 8;
+		if (clvl>=70 && clvl<100) xpH = Math.floor (xpH * XPDec[clvl-70] / 100);
+		var sHTML = '<tr><td>'+aMon[i][0]+'</td><td>'+mlvlN+'</td><td>'+xpN+'</td><td>'+
+					mlvlH+'</td><td>'+xpH+'</td></tr>\n';
+		document.write(sHTML);
+	} 
+}
+-->
+</script>
+</head>
+
+<body>
+
+<b>#mapname</b><br>
+
+<p>
+<b>Monster List : Normal</b><br>
+<br>
+<table cellpadding=4 cellspacing=2 border=0>
+<colgroup>
+	<col align="left">
+	<col align="middle">
+	<col align="middle">
+</colgroup>
+<tr class="head"><td rowspan=2>Monster</td><td colspan=2>Normal</td></tr>
+<tr class="head"><td>Level</td><td>Experience</td></tr>
+<script language="JavaScript" type="text/javascript">
+<!--
+	makeTable(aMonData1);
+-->
+</script>
+</table>
+
+<p>
+<b>Monster List : Nightmare & Hell</b><br>
+<br>
+<table cellpadding=4 cellspacing=2 border=0>
+<colgroup>
+	<col align="left">
+	<col align="middle">
+	<col align="middle">
+	<col align="middle">
+	<col align="middle">
+</colgroup>
+<tr class="head"><td rowspan=2>Monster</td><td colspan=2>Nightmare</td><td colspan=2>Hell</td></tr>
+<tr class="head"><td>Level</td><td>Experience</td><td>Level</td><td>Experience</td></tr>
+<script language="JavaScript" type="text/javascript">
+<!--
+	makeTable2(aMonData2);
+-->
+</script>
+</table>
+
+<p>
+<script language="JavaScript" type="text/javascript">
+<!--
+	var clvl = opener ? opener.document.clvlform.dex.value : 85;
+	var mlvlH = aMonData2[0][3];
+	if (clvl>=70) {
+		document.write ('<span class="red">* Character level experience penalty of '+ XPDec[clvl-70]+' %</span></br>');
+	}
+	var xpmod = (computeExpPenalty(clvl,mlvlH) * 100) / 256;
+	if (xpmod != 100) {
+		document.write ('<span class="red">* Monster level difference penalty of '+ xpmod +' %</span>');
+	}
+-->
+</script>
+
+</body>
+
+</html>
