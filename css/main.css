@@ -8,7 +8,7 @@ body {
 /* reset */
 p, pre, blockquote, address, dl, dt, dd, h1, h2, h3, h4, h5, form, label, fieldset { margin:0; padding:0; }
 input, select, textarea { font:11px Arial, sans-serif; color:#333; line-height:1.2em; }
-table, caption, td, th { margin:0; padding:0; font-size:12px; line-height:1.6em; font-weight:normal; }
+table, caption, td, th { margin:0; padding:0; font-size:12px; line-height:1.3em; font-weight:normal; }
 img { display:inline; }
 
 /* base spacing */
@@ -51,7 +51,7 @@ a.sma:hover    { color:#ffffff; }
 table   { margin:0 0 2em; color:#afafaf; font-size:13px; }
 tr.head td { padding:4px 8px; background:#400000; color:#c0c080; font-weight:normal; line-height:1.3em; }
 tr      { background:#000; line-height:11pt; }
-td      { font-size:13px; background:#200000; padding:2px 8px; }
+td      { font-size:13px; background:#200000; padding:3px 8px; }
 
 /* table styles */
 tr.head { background-color:#400000; color:#c0c080; font-weight:normal; line-height:12pt; }
@@ -109,6 +109,8 @@ table.itb td { background:#000; }
 /* super uniques */
 #tsu td em { color:#888; font-size:70%; }
 #tsu td u  { color:#4c4; font-size:80%; text-decoration:none; margin-left:0.5em; }
+#tsu .bold td { font-weight:bold; } /* act boss */
+#tsu .mmap { color:#888; font-size:0.8em; display:inline-block; padding:0 0 0 1em; }
 
 
 /* weapon tables */

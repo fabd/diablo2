@@ -33,6 +33,7 @@ my %lookup_files = (
 	'Armor'        => 'code',
   'Levels'       => 'LevelName',
 	'Misc'         => 'code',
+  'MonStats'     => 'NameStr',
 	'Runes'        => 'Name',
 	'SetItems'     => 'index',
 	'Sets'         => 'index',
@@ -121,6 +122,7 @@ my %outputstr;
 	    		}
 	    	}
 		}
+    close FIN;
 	}
 
 	#	Special code for itemtypes.txt, there appear to be no localized strings for the item types

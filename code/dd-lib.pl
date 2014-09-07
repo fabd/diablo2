@@ -113,15 +113,25 @@ sub verbose
 }
 
 
-
 #---------------------------------------------------------------------------
 #  Error ('errormsg')
 #  End program with error message
 #---------------------------------------------------------------------------
 sub Error {
-    print "ERROR: $_[0]\n";
+    print STDERR "ERROR: $_[0]\n";
     exit;
   }
+
+
+#---------------------------------------------------------------------------
+#  Open file, returns handle.
+#---------------------------------------------------------------------------
+sub TXT_Open {
+  my $path = shift() . '.txt';
+  local *FH;
+  open (FH, $path) or die "Cannot open file '$path: $!";
+  return *FH;
+}
 
 #---------------------------------------------------------------------------
 #  Opens MPQ file, returns file handle.
@@ -131,6 +141,38 @@ sub MPQ_Open {
   local *FH;
   open (FH, $path) or die "Cannot open MPQ file '$path: $!";
   return *FH;
+}
+
+#---------------------------------------------------------------------------
+#  MPQ_Seek ($FILEHANDLE, $columnName, $columnData)
+#
+#  Search the MPQ for a line that contains $columnData (exact match) in the
+#  given column ($columnName).
+#
+#  Returns the matched line's column data (cf GetColData()), or an empty array.
+#---------------------------------------------------------------------------
+sub MPQ_Seek {
+  my ($FH, $colName, $colData) = @_;
+  my $line, %cols, $colIdx;
+
+  seek $FH, 0, 0;
+  $line = <$FH>;
+  %cols = DD::GetColumnIndexes($line);
+
+  if (!exists $cols{$colName}) {
+    Error("MPQ_Seek(): column $colName not found.");
+  }
+
+  $colIdx = $cols{$colName};
+
+  while (<$FH>) {
+    my @data = DD::GetColData($_);
+    if ($data[$colIdx] eq $colData) {
+      return @data;
+    }
+  }
+
+  return ();
 }
 
 #---------------------------------------------------------------------------
