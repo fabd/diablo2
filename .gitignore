@@ -8,3 +8,4 @@ _todos.txt
 
 # Jekyll generated site
 /_site
+.jekyll-cache/*
