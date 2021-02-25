@@ -308,6 +308,9 @@ var App =
 				// item type
 				newRow.cells[this.MAX_RUNES+1].innerHTML = this.autoNbsp(runeword.ttype);
 
+        // level requirement
+        newRow.cells[this.MAX_RUNES + 2].innerHTML = runeword.level;
+
 				newRow.style.display = '';
 			}
 		}
@@ -463,9 +466,9 @@ var App =
 			
 			row.className = bComplete ? 'complete' : 'incomplete';
 			
-			// number of runes missing
-			row.cells[this.MAX_RUNES+2].innerHTML = runes.length - haveAll;
-						
+			// number of runes missing YAYA
+      row.cells[this.MAX_RUNES + 3].innerHTML = runes.length - haveAll;
+
 			// completed runewords
 			if (bComplete) {
 				numComplete++;
@@ -484,9 +487,9 @@ var App =
 		}*/
 		
 		// sort table on the Missing Runes column (i.e. by "completeness")
-		var lnk = this.runewordsTable.tHead.rows[0].cells[this.MAX_RUNES+2].getElementsByTagName('a')[0];
+		var lnk = this.runewordsTable.tHead.rows[0].cells[this.MAX_RUNES+3].getElementsByTagName('a')[0];
 		lnk.className = 'sortup'; //always sort down
-		sortables.ts_resortTable(lnk, 8);
+		sortables.ts_resortTable(lnk, this.MAX_RUNES+3);
 
 		if (numComplete) {
 			this.setRunewordCount(' ('+numComplete+' available)');
