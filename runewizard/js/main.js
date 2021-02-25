@@ -22,87 +22,87 @@
 
 var Runewords = [
 	/* 1.09 */
-	{ title: "Ancient's Pledge", runes: ['Ral','Ort','Tal'], ttype:"Shields" },
-	{ title: "Black", runes: ['Thul','Io','Nef'], ttype:"Clubs/Hammers/Maces" },
-	{ title: "Fury", runes: ['Jah','Gul','Eth'], ttype:"Melee&nbsp;Weapons" },
-	{ title: "Holy Thunder", runes: ['Eth','Ral','Ort','Tal'], ttype:"Scepters" },
-	{ title: "Honor", runes: ['Amn','El','Ith','Tir','Sol'], ttype:"Melee Weapons" },
-	{ title: "King's Grace", runes: ['Amn','Ral','Thul'], ttype:"Swords/Scepters" },
-	{ title: "Leaf", runes: ['Tir','Ral'], ttype:"Staves<span class=\"small\">(Not Orbs/Wands)<span>" },
-	{ title: "Lionheart", runes: ['Hel','Lum','Fal'], ttype:"Body Armor" },
-	{ title: "Lore", runes: ['Ort','Sol'], ttype:"Helms" },
-	{ title: "Malice", runes: ['Ith','El','Eth'], ttype:"Melee Weapons" },
-	{ title: "Melody", runes: ['Shael','Ko','Nef'], ttype:"Missile Weapons" },
-	{ title: "Memory", runes: ['Lum','Io','Sol','Eth'], ttype:"Staves<span class=\"small\">(Not Orbs)<span>" },
-	{ title: "Nadir", runes: ['Nef','Tir'], ttype:"Helms" },
-	{ title: "Radiance", runes: ['Nef','Sol','Ith'], ttype:"Helms" },
-	{ title: "Rhyme", runes: ['Shael','Eth'], ttype:"Shields" },
-	{ title: "Silence", runes: ['Dol','Eld','Hel','Ist','Tir','Vex'], ttype:"Weapons" },
-	{ title: "Smoke", runes: ['Nef','Lum'], ttype:"Body Armor" },
-	{ title: "Stealth", runes: ['Tal','Eth'], ttype:"Body Armor" },
-	{ title: "Steel", runes: ['Tir','El'], ttype:"Swords/Axes/Maces" },
-	{ title: "Strength", runes: ['Amn','Tir'], ttype:"Melee Weapons" },
-	{ title: "Venom", runes: ['Tal','Dol','Mal'], ttype:"Weapons" },
-	{ title: "Wealth", runes: ['Lem','Ko','Tir'], ttype:"Body Armor" },
-	{ title: "White", runes: ['Dol','Io'], ttype:"Wand" },
-	{ title: "Zephyr", runes: ['Ort','Eth'], ttype:"Missile Weapons" },
+	{ title: "Ancient's Pledge", runes: ['Ral','Ort','Tal'], level:"21", ttype:"Shields" },
+	{ title: "Black", runes: ['Thul','Io','Nef'], level:"35", ttype:"Clubs/Hammers/Maces" },
+	{ title: "Fury", runes: ['Jah','Gul','Eth'], level:"65", ttype:"Melee&nbsp;Weapons" },
+	{ title: "Holy Thunder", runes: ['Eth','Ral','Ort','Tal'], level:"21", ttype:"Scepters" },
+	{ title: "Honor", runes: ['Amn','El','Ith','Tir','Sol'], level:"27", ttype:"Melee Weapons" },
+	{ title: "King's Grace", runes: ['Amn','Ral','Thul'], level:"25", ttype:"Swords/Scepters" },
+	{ title: "Leaf", runes: ['Tir','Ral'], level:"19", ttype:"Staves<span class=\"small\">(Not Orbs/Wands)<span>" },
+	{ title: "Lionheart", runes: ['Hel','Lum','Fal'], level:"41", ttype:"Body Armor" },
+	{ title: "Lore", runes: ['Ort','Sol'], level:"27", ttype:"Helms" },
+	{ title: "Malice", runes: ['Ith','El','Eth'], level:"15", ttype:"Melee Weapons" },
+	{ title: "Melody", runes: ['Shael','Ko','Nef'], level:"39", ttype:"Missile Weapons" },
+	{ title: "Memory", runes: ['Lum','Io','Sol','Eth'], level:"37", ttype:"Staves<span class=\"small\">(Not Orbs)<span>" },
+	{ title: "Nadir", runes: ['Nef','Tir'], level:"13", ttype:"Helms" },
+	{ title: "Radiance", runes: ['Nef','Sol','Ith'], level:"27", ttype:"Helms" },
+	{ title: "Rhyme", runes: ['Shael','Eth'], level:"29", ttype:"Shields" },
+	{ title: "Silence", runes: ['Dol','Eld','Hel','Ist','Tir','Vex'], level:"55", ttype:"Weapons" },
+	{ title: "Smoke", runes: ['Nef','Lum'], level:"37", ttype:"Body Armor" },
+	{ title: "Stealth", runes: ['Tal','Eth'], level:"17", ttype:"Body Armor" },
+	{ title: "Steel", runes: ['Tir','El'], level:"13", ttype:"Swords/Axes/Maces" },
+	{ title: "Strength", runes: ['Amn','Tir'], level:"25", ttype:"Melee Weapons" },
+	{ title: "Venom", runes: ['Tal','Dol','Mal'], level:"49", ttype:"Weapons" },
+	{ title: "Wealth", runes: ['Lem','Ko','Tir'], level:"43", ttype:"Body Armor" },
+	{ title: "White", runes: ['Dol','Io'], level:"35", ttype:"Wand" },
+	{ title: "Zephyr", runes: ['Ort','Eth'], level:"21", ttype:"Missile Weapons" },
 	/* 1.10 */
-	{ title: "Beast", runes: ['Ber','Tir','Um','Mal','Lum'], ttype:"Axes/Scepters/Hammers" },
-	{ title: "Bramble", runes: ['Ral','Ohm','Sur','Eth'], ttype:"Body Armor" },
-	{ title: "Breath of the Dying", runes: ['Vex','Hel','El','Eld','Zod','Eth'], ttype:"Weapons" },
-	{ title: "Call To Arms", runes: ['Amn','Ral','Mal','Ist','Ohm'], ttype:"Weapons" },
-	{ title: "Chaos", runes: ['Fal','Ohm','Um'], ttype:"Claws" },
-	{ title: "Chains of Honor", runes: ['Dol','Um','Ber','Ist'], ttype:"Body Armor" },
-	{ title: "Crescent Moon", runes: ['Shael','Um','Tir'], ttype:"Axes/Swords/Polearms" },
-	{ title: "Delirium", runes: ['Lem','Ist','Io'], ttype:"Helms" },
-	{ title: "Doom", runes: ['Hel','Ohm','Um','Lo','Cham'], ttype:"Axes/Polearms/Hammers" },
-	{ title: "Duress", runes: ['Shael','Um','Thul'], ttype:"Body Armor" },
-	{ title: "Enigma", runes: ['Jah','Ith','Ber'], ttype:"Body Armor" },
-	{ title: "Eternity", runes: ['Amn','Ber','Ist','Sol','Sur'], ttype:"Melee Weapons" },
-	{ title: "Exile", runes: ['Vex','Ohm','Ist','Dol'], ttype:"Paladin Shields (only)" },
-	{ title: "Famine", runes: ['Fal','Ohm','Ort','Jah'], ttype:"Axes/Hammers" },
-	{ title: "Gloom", runes: ['Fal','Um','Pul'], ttype:"Body Armor" },
-	{ title: "Hand of Justice", runes: ['Sur','Cham','Amn','Lo'], ttype:"Weapons" },
-	{ title: "Heart of the Oak", runes: ['Ko','Vex','Pul','Thul'], ttype:"Staves*/Maces" },
-	{ title: "Kingslayer", runes: ['Mal','Um','Gul','Fal'], ttype:"Swords/Axes" },
-	{ title: "Passion", runes: ['Dol','Ort','Eld','Lem'], ttype:"Weapons" },
-	{ title: "Prudence", runes: ['Mal','Tir'], ttype:"Body Armor" },
-	{ title: "Sanctuary", runes: ['Ko','Ko','Mal'], ttype:"Shields" },
-	{ title: "Splendor", runes: ['Eth','Lum'], ttype:"Shields" },
-	{ title: "Stone", runes: ['Shael','Um','Pul','Lum'], ttype:"Body Armor" },
-	{ title: "Wind", runes: ['Sur','El'], ttype:"Melee Weapons" },
+	{ title: "Beast", runes: ['Ber','Tir','Um','Mal','Lum'], level:"63", ttype:"Axes/Scepters/Hammers" },
+	{ title: "Bramble", runes: ['Ral','Ohm','Sur','Eth'], level:"61", ttype:"Body Armor" },
+	{ title: "Breath of the Dying", runes: ['Vex','Hel','El','Eld','Zod','Eth'], level:"69", ttype:"Weapons" },
+	{ title: "Call To Arms", runes: ['Amn','Ral','Mal','Ist','Ohm'], level:"51", ttype:"Weapons" },
+	{ title: "Chaos", runes: ['Fal','Ohm','Um'], level:"57", ttype:"Claws" },
+	{ title: "Chains of Honor", runes: ['Dol','Um','Ber','Ist'], level:"63", ttype:"Body Armor" },
+	{ title: "Crescent Moon", runes: ['Shael','Um','Tir'], level:"47", ttype:"Axes/Swords/Polearms" },
+	{ title: "Delirium", runes: ['Lem','Ist','Io'], level:"51", ttype:"Helms" },
+	{ title: "Doom", runes: ['Hel','Ohm','Um','Lo','Cham'], level:"67", ttype:"Axes/Polearms/Hammers" },
+	{ title: "Duress", runes: ['Shael','Um','Thul'], level:"47", ttype:"Body Armor" },
+	{ title: "Enigma", runes: ['Jah','Ith','Ber'], level:"65", ttype:"Body Armor" },
+	{ title: "Eternity", runes: ['Amn','Ber','Ist','Sol','Sur'], level:"63", ttype:"Melee Weapons" },
+	{ title: "Exile", runes: ['Vex','Ohm','Ist','Dol'], level:"57", ttype:"Paladin Shields (only)" },
+	{ title: "Famine", runes: ['Fal','Ohm','Ort','Jah'], level:"65", ttype:"Axes/Hammers" },
+	{ title: "Gloom", runes: ['Fal','Um','Pul'], level:"47", ttype:"Body Armor" },
+	{ title: "Hand of Justice", runes: ['Sur','Cham','Amn','Lo'], level:"67", ttype:"Weapons" },
+	{ title: "Heart of the Oak", runes: ['Ko','Vex','Pul','Thul'], level:"55", ttype:"Staves*/Maces" },
+	{ title: "Kingslayer", runes: ['Mal','Um','Gul','Fal'], level:"53", ttype:"Swords/Axes" },
+	{ title: "Passion", runes: ['Dol','Ort','Eld','Lem'], level:"43", ttype:"Weapons" },
+	{ title: "Prudence", runes: ['Mal','Tir'], level:"49", ttype:"Body Armor" },
+	{ title: "Sanctuary", runes: ['Ko','Ko','Mal'], level:"49", ttype:"Shields" },
+	{ title: "Splendor", runes: ['Eth','Lum'], level:"37", ttype:"Shields" },
+	{ title: "Stone", runes: ['Shael','Um','Pul','Lum'], level:"47", ttype:"Body Armor" },
+	{ title: "Wind", runes: ['Sur','El'], level:"61", ttype:"Melee Weapons" },
 	/* 1.10 LADDER */
-	{ title: "Brand", runes: ['Jah','Lo','Mal','Gul'], ttype:"Missile Weapons", ladder:true },
-	{ title: "Death", runes: ['Hel','El','Vex','Ort','Gul'], ttype:"Swords/Axes", ladder:true },
-	{ title: "Destruction", runes: ['Vex','Lo','Ber','Jah','Ko'], ttype:"Polearms/Swords", ladder:true },
-	{ title: "Dragon", runes: ['Sur','Lo','Sol'], ttype:"Body Armor/Shields", ladder:true },
-	{ title: "Dream", runes: ['Io','Jah','Pul'], ttype:"Helms/Shields", ladder:true },
-	{ title: "Edge", runes: ['Tir','Tal','Amn'], ttype:"Missile Weapons", ladder:true },
-	{ title: "Faith", runes: ['Ohm','Jah','Lem','Eld'], ttype:"Missile Weapons", ladder:true },
-	{ title: "Fortitude", runes: ['El','Sol','Dol','Lo'], ttype:"Weapons/Body Armor", ladder:true },
-	{ title: "Grief", runes: ['Eth','Tir','Lo','Mal','Ral'], ttype:"Swords/Axes", ladder:true },
-	{ title: "Harmony", runes: ['Tir','Ith','Sol','Ko'], ttype:"Missile Weapons", ladder:true },
-	{ title: "Ice", runes: ['Amn','Shael','Jah','Lo'], ttype:"Missile Weapons", ladder:true },
-	{ title: "Infinity", runes: ['Ber','Mal','Ber','Ist'], ttype:"Polearms", ladder:true },
-	{ title: "Insight", runes: ['Ral','Tir','Tal','Sol'], ttype:"Polearms/Staves", ladder:true },
-	{ title: "Last Wish", runes: ['Jah','Mal','Jah','Sur','Jah','Ber'], ttype:"Swords/Hammers/Axes", ladder:true },
-	{ title: "Lawbringer", runes: ['Amn','Lem','Ko'], ttype:"Swords/Hammers/Scepter", ladder:true },
-	{ title: "Oath", runes: ['Shael','Pul','Mal','Lum'], ttype:"Swords/Axes/Maces", ladder:true },
-	{ title: "Obedience", runes: ['Hel','Ko','Thul','Eth','Fal'], ttype:"Polearms", ladder:true },
-	{ title: "Phoenix", runes: ['Vex','Vex','Lo','Jah'], ttype:"Weapons/Shields", ladder:true },
-	{ title: "Pride", runes: ['Cham','Sur','Io','Lo'], ttype:"Polearms", ladder:true },
-	{ title: "Rift", runes: ['Hel','Ko','Lem','Gul'], ttype:"Polearms/Scepters", ladder:true },
-	{ title: "Spirit", runes: ['Tal','Thul','Ort','Amn'], ttype:"Swords/Shields", ladder:true },
-	{ title: "Voice of Reason", runes: ['Lem','Ko','El','Eld'], ttype:"Swords/Maces", ladder:true },
-	{ title: "Wrath", runes: ['Pul','Lum','Ber','Mal'], ttype:"Missile Weapons", ladder:true },
+	{ title: "Brand", runes: ['Jah','Lo','Mal','Gul'], level:"65", ttype:"Missile Weapons", ladder:true },
+	{ title: "Death", runes: ['Hel','El','Vex','Ort','Gul'], level:"55", ttype:"Swords/Axes", ladder:true },
+	{ title: "Destruction", runes: ['Vex','Lo','Ber','Jah','Ko'], level:"65", ttype:"Polearms/Swords", ladder:true },
+	{ title: "Dragon", runes: ['Sur','Lo','Sol'], level:"61", ttype:"Body Armor/Shields", ladder:true },
+	{ title: "Dream", runes: ['Io','Jah','Pul'], level:"65", ttype:"Helms/Shields", ladder:true },
+	{ title: "Edge", runes: ['Tir','Tal','Amn'], level:"25", ttype:"Missile Weapons", ladder:true },
+	{ title: "Faith", runes: ['Ohm','Jah','Lem','Eld'], level:"65", ttype:"Missile Weapons", ladder:true },
+	{ title: "Fortitude", runes: ['El','Sol','Dol','Lo'], level:"59", ttype:"Weapons/Body Armor", ladder:true },
+	{ title: "Grief", runes: ['Eth','Tir','Lo','Mal','Ral'], level:"59", ttype:"Swords/Axes", ladder:true },
+	{ title: "Harmony", runes: ['Tir','Ith','Sol','Ko'], level:"39", ttype:"Missile Weapons", ladder:true },
+	{ title: "Ice", runes: ['Amn','Shael','Jah','Lo'], level:"65", ttype:"Missile Weapons", ladder:true },
+	{ title: "Infinity", runes: ['Ber','Mal','Ber','Ist'], level:"63", ttype:"Polearms", ladder:true },
+	{ title: "Insight", runes: ['Ral','Tir','Tal','Sol'], level:"27", ttype:"Polearms/Staves", ladder:true },
+	{ title: "Last Wish", runes: ['Jah','Mal','Jah','Sur','Jah','Ber'], level:"65", ttype:"Swords/Hammers/Axes", ladder:true },
+	{ title: "Lawbringer", runes: ['Amn','Lem','Ko'], level:"43", ttype:"Swords/Hammers/Scepter", ladder:true },
+	{ title: "Oath", runes: ['Shael','Pul','Mal','Lum'], level:"49", ttype:"Swords/Axes/Maces", ladder:true },
+	{ title: "Obedience", runes: ['Hel','Ko','Thul','Eth','Fal'], level:"41", ttype:"Polearms", ladder:true },
+	{ title: "Phoenix", runes: ['Vex','Vex','Lo','Jah'], level:"65", ttype:"Weapons/Shields", ladder:true },
+	{ title: "Pride", runes: ['Cham','Sur','Io','Lo'], level:"67", ttype:"Polearms", ladder:true },
+	{ title: "Rift", runes: ['Hel','Ko','Lem','Gul'], level:"53", ttype:"Polearms/Scepters", ladder:true },
+	{ title: "Spirit", runes: ['Tal','Thul','Ort','Amn'], level:"30", ttype:"Swords/Shields", ladder:true },
+	{ title: "Voice of Reason", runes: ['Lem','Ko','El','Eld'], level:"43", ttype:"Swords/Maces", ladder:true },
+	{ title: "Wrath", runes: ['Pul','Lum','Ber','Mal'], level:"63", ttype:"Missile Weapons", ladder:true },
 	/* 1.11 */
-	{ title: "Bone", runes: ['Sol','Um','Um'], ttype:"Body Armor<span class=\"small\">(Necromancer)</span>", tclass:"Necromancer" },
-	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], ttype:"Body Armor<span class=\"small\">(Sorceress)</span>", tclass:"Sorceress" },
-	{ title: "Myth", runes: ['Hel','Amn','Nef'], ttype:"Body Armor<span class=\"small\">(Barbarian)</span>", tclass:"Barbarian" },
-	{ title: "Peace", runes: ['Shael','Thul','Amn'], ttype:"Body Armor<span class=\"small\">(Amazon)</span>", tclass:"Amazon" },
-	{ title: "Principle", runes: ['Ral','Gul','Eld'], ttype:"Body Armor<span class=\"small\">(Paladin)</span>", tclass:"Paladin" },
-	{ title: "Rain", runes: ['Ort','Mal','Ith'], ttype:"Body Armor<span class=\"small\">(Druid)</span>", tclass:"Druid" },
-	{ title: "Treachery", runes: ['Shael','Thul','Lem'], ttype:"Body Armor<span class=\"small\">(Assassin)</span>", tclass:"Assassin" }
+	{ title: "Bone", runes: ['Sol','Um','Um'], level:"47", ttype:"Body Armor<span class=\"small\">(Necromancer)</span>", tclass:"Necromancer" },
+	{ title: "Enlightenment", runes: ['Pul','Ral','Sol'], level:"45", ttype:"Body Armor<span class=\"small\">(Sorceress)</span>", tclass:"Sorceress" },
+	{ title: "Myth", runes: ['Hel','Amn','Nef'], level:"25", ttype:"Body Armor<span class=\"small\">(Barbarian)</span>", tclass:"Barbarian" },
+	{ title: "Peace", runes: ['Shael','Thul','Amn'], level:"29", ttype:"Body Armor<span class=\"small\">(Amazon)</span>", tclass:"Amazon" },
+	{ title: "Principle", runes: ['Ral','Gul','Eld'], level:"53", ttype:"Body Armor<span class=\"small\">(Paladin)</span>", tclass:"Paladin" },
+	{ title: "Rain", runes: ['Ort','Mal','Ith'], level:"49", ttype:"Body Armor<span class=\"small\">(Druid)</span>", tclass:"Druid" },
+	{ title: "Treachery", runes: ['Shael','Thul','Lem'], level:"43", ttype:"Body Armor<span class=\"small\">(Assassin)</span>", tclass:"Assassin" }
 ];
 
 var Runes = {
@@ -308,6 +308,9 @@ var App =
 				// item type
 				newRow.cells[this.MAX_RUNES+1].innerHTML = this.autoNbsp(runeword.ttype);
 
+        // level requirement
+        newRow.cells[this.MAX_RUNES + 2].innerHTML = runeword.level;
+
 				newRow.style.display = '';
 			}
 		}
@@ -463,9 +466,9 @@ var App =
 			
 			row.className = bComplete ? 'complete' : 'incomplete';
 			
-			// number of runes missing
-			row.cells[this.MAX_RUNES+2].innerHTML = runes.length - haveAll;
-						
+			// number of runes missing YAYA
+      row.cells[this.MAX_RUNES + 3].innerHTML = runes.length - haveAll;
+
 			// completed runewords
 			if (bComplete) {
 				numComplete++;
@@ -484,9 +487,9 @@ var App =
 		}*/
 		
 		// sort table on the Missing Runes column (i.e. by "completeness")
-		var lnk = this.runewordsTable.tHead.rows[0].cells[this.MAX_RUNES+2].getElementsByTagName('a')[0];
+		var lnk = this.runewordsTable.tHead.rows[0].cells[this.MAX_RUNES+3].getElementsByTagName('a')[0];
 		lnk.className = 'sortup'; //always sort down
-		sortables.ts_resortTable(lnk, 8);
+		sortables.ts_resortTable(lnk, this.MAX_RUNES+3);
 
 		if (numComplete) {
 			this.setRunewordCount(' ('+numComplete+' available)');

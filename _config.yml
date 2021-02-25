@@ -5,6 +5,8 @@ baseurl: /diablo2
 
 markdown: kramdown
 
+permalink: /:title
+
 exclude:
 - archive
 - code

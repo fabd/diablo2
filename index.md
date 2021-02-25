@@ -18,6 +18,15 @@ Here is an overview of the main sections of the site:
 
 * **Weapons** : those pages lists weapons sorted by base weapon speed, you can then match the weapon speed in the "IAS Breakpoint" table that follows, and see what are the minimum IAS (Increased Attack Speed) required to reach faster attack animations. *Please note the IAS Breakpoint tables were made specifically for the Amazon.* While the base weapon speeds are the same for all characters, the actual attack speeds will vary from class to class.
 
+<div style="margin:0 0 2rem;"></div>
+
+## Changelog
+
+### 2021-02-25
+
+- **Runewizard** : added `Required Level` column (sortable). Thanks to migouelBL for inputting the data.
+
+
 </section>
 <section>
 ## Contact
