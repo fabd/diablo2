@@ -3,7 +3,7 @@ Diablo 2
 
 A resource for Diablo 2 players.
 
-The pages are available at http://fabd.github.io/diablo2
+The pages are available at https://fabd.github.io/diablo2
 
 There are two very handy resources I created by extracting the game data and running some Perl scripts:
 
