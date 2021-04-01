@@ -51,15 +51,29 @@ a.sma:visited  { color:#928A72; }
 a.sma:active  { color:#ffffff; }
 a.sma:hover    { color:#ffffff; }
 
-/* base tables */
+/*
 table   { margin:0 0 2em; color:#afafaf; font-size:13px; }
 tr.head td { padding:4px 8px; background:#400000; color:#c0c080; font-weight:normal; line-height:1.3em; }
 tr      { background:#000; line-height:11pt; }
 td      { font-size:13px; background:#200000; padding:3px 8px; }
-
-/* table styles */
 tr.head { background-color:#400000; color:#c0c080; font-weight:normal; line-height:12pt; }
 .centered td { text-align:center; }
+*/
+
+/* wiki tables */
+.tr-Table {
+  border-spacing:0;
+  margin:0 0 2em; color:#afafaf; font-size:13px;
+}
+.tr-Table tr { background:#000; line-height:11pt; }
+.tr-Table td { font-size:13px; background:#200000; padding:3px 8px; }
+.tr-Table tr.head { background-color:#400000; color:#c0c080; font-weight:normal; line-height:12pt; }
+.tr-Table .centered td { text-align:center; }
+.tr-Table tr.head td { padding:4px 8px; background:#400000; color:#c0c080; font-weight:normal; line-height:1.3em; }
+
+/* IAS breakpoint tables */
+.tr-Table-fpa { text-align: center; border-spacing: 1px; }
+.tr-Table-fpa td { text-align: center; }
 
 /* misc */
 em.v { color:#8c8; }  /* patch version */
@@ -116,11 +130,10 @@ table.itb td { background:#000; }
 #tsu .bold td { font-weight:bold; } /* act boss */
 #tsu .mmap { color:#888; font-size:0.8em; display:inline-block; padding:0 0 0 1em; }
 
-
 /* weapon tables */
 tr.num { line-height:10px; }
 td.base { color:#40cf40; }
 p.legend { font-size:13px; margin-left:1em; }
 
-.wpnfpa td { text-align:center; }
-
+/* misc. utilities */
+.text-center { text-align: center; }
