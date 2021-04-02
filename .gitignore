@@ -1,5 +1,8 @@
 !.gitignore
 
+# node modules, eg. stylelint (optional)
+node_modules
+
 # private & misc. data files
 __*
 

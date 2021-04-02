@@ -46,7 +46,7 @@ The Valkyrie can appear in different colors, depending on what bonuses were spaw
 
 The following table shows which items the Valkyrie receives based on her Skill Level :
 
-<table BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<table class="tr-Table">
 <colgroup>
 	<col align="middle">
 	<col align="left">
@@ -187,7 +187,7 @@ The Valkyrie appears in different colors based on what bonuses are found on her 
 This works exactly the same way as it does on player characters. The following table
 lists some common affixes on the Valkyrie armor, and the associated color.
 
-<TABLE BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<table class="tr-Table">
 <TR class="head">
 <TD width="100">Color</TD>
 <TD>Possible Affixes on Armor</TD>

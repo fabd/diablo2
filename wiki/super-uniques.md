@@ -14,7 +14,7 @@ TC's A, B & C are indicated as an estimate of the quality of the items that can 
 Note the Treasure Class 'Cx' for Pindleskin and ThreshSocket, which indicates that they have been nerfed in <em class="v">1.10</em>.
 
 
-<table id="tsu" BORDER="0" CELLSPACING="0" CELLPADDING="4">
+<table class="tr-Table" id= "tsu">
 <colgroup>
 	<col align="left">
 	<col align="left">
