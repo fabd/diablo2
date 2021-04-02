@@ -13,3 +13,5 @@ exclude:
 - LICENSE
 - README.md
 
+sass:
+  sass_dir: css
