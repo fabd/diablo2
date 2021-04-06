@@ -1,18 +1,21 @@
-Diablo 2
-========
+## "The Tankazon Resource" - A Diablo II mini site
 
 A resource for Diablo 2 players.
 
-The pages are available at https://fabd.github.io/diablo2
+See live site at https://fabd.github.io/diablo2
 
 There are two very handy resources I created by extracting the game data and running some Perl scripts:
 
-* "bonuses" : a simple page that sorts all Diablo 2 items, runes and runewords by their magical properties.
-* "rune wizard" : an interactive page (javascript) which remembers which runes you have found, and lets you see easily all the Runewords that can be completed, as well as the Runewords properties.
+- **Bonuses** : a simple page that sorts all Diablo 2 items, runes and runewords by their magical properties.
+- **Runewizard** : an interactive page (javascript) which remembers which runes you have found, and lets you see easily all the Runewords that can be completed, as well as the Runewords properties.
 
+## New Runewizard repo!
 
-History
-=======
+As of April 2021, **Runewizard** now has its own separate repository at : [github.com/fabd/diablo2-runewizard](https://github.com/fabd/diablo2-runewizard).
+
+The [live version](https://fabd.github.io/diablo2-runewizard/) is also hosted by Github Pages from this newer repository.
+
+## History
 
 I created a mini-site called "The Tankazon Resource" in 2003. Back then I was teaching myself HTML and Javascript. Since the gameplay data from Diablo 2 could be extracted as simple tabular data (ie. spreadsheets) it provided a fun environment to experiment and learn scripting with Perl.
 
@@ -24,18 +27,14 @@ In early 2014 I started playing the game again. I found an old backup and though
 
 It's amazing to think that Diablo 2 patch 1.10 came out 10 years ago! The game is still very much fun to play and moreso these days as you can share those experiences on Twitch :)
 
+## Copyright notice regarding the Diablo 2 DATA FILES
 
-COPYRIGHT NOTICE regarding the Diablo 2 DATA FILES
-==================================================
-
-Concerning: all *.txt files included in `/d2_113_data/`
+Concerning: all `*.txt` files included in `/d2_113_data/`
 
 Please note that the data files extracted from the game [Diablo 2](http://eu.blizzard.com/en-gb/games/d2/) are included in this repository only for convenience and solely for the purpose of the creation of Diablo 2 game guides.
 
-__These datafiles remain the intellectual property of _Blizzard Entertainment__.
+_These datafiles remain the intellectual property of Blizzard Entertainment_.
 
+## Thanks
 
-Thanks
-======
-
-* The Amazon Basin community. The [technical discussions forum](http://www.theamazonbasin.com/d2/d2_guides.php) was instrumental to understand how to interpret the data found in the Diablo 2 files.
+- The Amazon Basin community. The [technical discussions forum](https://www.theamazonbasin.com/forums/index.php?/forums/forum/501-diablo-ii/) was instrumental to understand how to interpret the data found in the Diablo 2 files.
