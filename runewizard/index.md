@@ -14,7 +14,7 @@ For the live version [follow this link](https://fabd.github.io/diablo2-runewizar
 _PS: please note the new version saves state in the browser's "localStorage" instead of a cookie. If you manually clear "Cookies and other site data" in your browser, the selected runes will be reset._
 
 <div class="RunewizardPage-screenshot" style="margin:2rem 0 0 2rem;">
-  <a href="http://fabd.github.io/diablo2-runewizard" title="Go to Runewizard for Diablo II"><img src="runewizard-screenshot-2021-04-01.png" alt="Screenshot" /></a>
+  <a href="https://fabd.github.io/diablo2-runewizard" title="Go to Runewizard for Diablo II"><img src="runewizard-screenshot-2021-04-01.png" alt="Screenshot" /></a>
 </div>
 
 </div>
